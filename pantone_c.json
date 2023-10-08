@@ -1,0 +1,5418 @@
+[
+  {
+    "pantone": "yellow-c",
+    "hex": "#FFDB00"
+  },
+  {
+    "pantone": "yellow 012-c",
+    "hex": "#FFD400"
+  },
+  {
+    "pantone": "orange 021-c",
+    "hex": "#FF5200"
+  },
+  {
+    "pantone": "warm red-c",
+    "hex": "#FF4638"
+  },
+  {
+    "pantone": "red 032-c",
+    "hex": "#F8343D"
+  },
+  {
+    "pantone": "rubine red-c",
+    "hex": "#D70056"
+  },
+  {
+    "pantone": "rhodamine red-c",
+    "hex": "#E41493"
+  },
+  {
+    "pantone": "purple-c",
+    "hex": "#BA2FB7"
+  },
+  {
+    "pantone": "violet-c",
+    "hex": "#290098"
+  },
+  {
+    "pantone": "blue 072-c",
+    "hex": "#001A9F"
+  },
+  {
+    "pantone": "reflex blue-c",
+    "hex": "#001C88"
+  },
+  {
+    "pantone": "process blue-c",
+    "hex": "#0082C8"
+  },
+  {
+    "pantone": "green-c",
+    "hex": "#00A889"
+  },
+  {
+    "pantone": "black-c",
+    "hex": "#2D2925"
+  },
+  {
+    "pantone": "yellow 0131-c",
+    "hex": "#FAEFA3"
+  },
+  {
+    "pantone": "red 0331-c",
+    "hex": "#FFB0BC"
+  },
+  {
+    "pantone": "magenta 0521-c",
+    "hex": "#F2B3DB"
+  },
+  {
+    "pantone": "violet 0631-c",
+    "hex": "#BA9BDD"
+  },
+  {
+    "pantone": "blue 0821-c",
+    "hex": "#5FCFEA"
+  },
+  {
+    "pantone": "green 0921-c",
+    "hex": "#97E5D8"
+  },
+  {
+    "pantone": "black 0961-c",
+    "hex": "#A0968D"
+  },
+  {
+    "pantone": "801-c",
+    "hex": "#0097CD"
+  },
+  {
+    "pantone": "802-c",
+    "hex": "#50D235"
+  },
+  {
+    "pantone": "803-c",
+    "hex": "#FFE600"
+  },
+  {
+    "pantone": "804-c",
+    "hex": "#FFAC4F"
+  },
+  {
+    "pantone": "805-c",
+    "hex": "#FF7375"
+  },
+  {
+    "pantone": "806-c",
+    "hex": "#FF47B4"
+  },
+  {
+    "pantone": "807-c",
+    "hex": "#EC31BF"
+  },
+  {
+    "pantone": "871-c",
+    "hex": "#87744F"
+  },
+  {
+    "pantone": "872-c",
+    "hex": "#89704D"
+  },
+  {
+    "pantone": "873-c",
+    "hex": "#8A6C4B"
+  },
+  {
+    "pantone": "874-c",
+    "hex": "#8E6E4D"
+  },
+  {
+    "pantone": "875-c",
+    "hex": "#8B6750"
+  },
+  {
+    "pantone": "876-c",
+    "hex": "#8F624A"
+  },
+  {
+    "pantone": "877-c",
+    "hex": "#888B8D"
+  },
+  {
+    "pantone": "medium yellow-c",
+    "hex": "#FFD700"
+  },
+  {
+    "pantone": "bright orange-c",
+    "hex": "#FF6100"
+  },
+  {
+    "pantone": "bright red-c",
+    "hex": "#FF3E1D"
+  },
+  {
+    "pantone": "strong red-c",
+    "hex": "#D70053"
+  },
+  {
+    "pantone": "pink-c",
+    "hex": "#DC2C96"
+  },
+  {
+    "pantone": "medium purple-c",
+    "hex": "#3F0B8C"
+  },
+  {
+    "pantone": "dark blue-c",
+    "hex": "#002B9A"
+  },
+  {
+    "pantone": "medium blue-c",
+    "hex": "#0082CA"
+  },
+  {
+    "pantone": "bright green-c",
+    "hex": "#00AD8E"
+  },
+  {
+    "pantone": "neutral black-c",
+    "hex": "#212121"
+  },
+  {
+    "pantone": "100-c",
+    "hex": "#FFE963"
+  },
+  {
+    "pantone": "101-c",
+    "hex": "#FFE94C"
+  },
+  {
+    "pantone": "102-c",
+    "hex": "#FFE100"
+  },
+  {
+    "pantone": "yellow-c",
+    "hex": "#FFDB00"
+  },
+  {
+    "pantone": "103-c",
+    "hex": "#CDA700"
+  },
+  {
+    "pantone": "104-c",
+    "hex": "#B99800"
+  },
+  {
+    "pantone": "105-c",
+    "hex": "#8F7A2A"
+  },
+  {
+    "pantone": "7401-c",
+    "hex": "#FCDFA5"
+  },
+  {
+    "pantone": "7402-c",
+    "hex": "#F2D799"
+  },
+  {
+    "pantone": "7403-c",
+    "hex": "#F7D285"
+  },
+  {
+    "pantone": "7404-c",
+    "hex": "#FDD641"
+  },
+  {
+    "pantone": "7405-c",
+    "hex": "#FCCC00"
+  },
+  {
+    "pantone": "7406-c",
+    "hex": "#FDC300"
+  },
+  {
+    "pantone": "7407-c",
+    "hex": "#D29F54"
+  },
+  {
+    "pantone": "106-c",
+    "hex": "#FFE34A"
+  },
+  {
+    "pantone": "107-c",
+    "hex": "#FFDF29"
+  },
+  {
+    "pantone": "108-c",
+    "hex": "#FFDA00"
+  },
+  {
+    "pantone": "109-c",
+    "hex": "#FFCF00"
+  },
+  {
+    "pantone": "110-c",
+    "hex": "#E4AA00"
+  },
+  {
+    "pantone": "111-c",
+    "hex": "#B18800"
+  },
+  {
+    "pantone": "112-c",
+    "hex": "#A28215"
+  },
+  {
+    "pantone": "113-c",
+    "hex": "#FFDF54"
+  },
+  {
+    "pantone": "114-c",
+    "hex": "#FFDB42"
+  },
+  {
+    "pantone": "115-c",
+    "hex": "#FFD72B"
+  },
+  {
+    "pantone": "116-c",
+    "hex": "#FFCB00"
+  },
+  {
+    "pantone": "117-c",
+    "hex": "#D19500"
+  },
+  {
+    "pantone": "118-c",
+    "hex": "#B38300"
+  },
+  {
+    "pantone": "119-c",
+    "hex": "#8F7323"
+  },
+  {
+    "pantone": "127-c",
+    "hex": "#FBDA6D"
+  },
+  {
+    "pantone": "128-c",
+    "hex": "#FED24F"
+  },
+  {
+    "pantone": "129-c",
+    "hex": "#FFCE42"
+  },
+  {
+    "pantone": "130-c",
+    "hex": "#FCA600"
+  },
+  {
+    "pantone": "131-c",
+    "hex": "#D78A00"
+  },
+  {
+    "pantone": "132-c",
+    "hex": "#A97402"
+  },
+  {
+    "pantone": "133-c",
+    "hex": "#70551C"
+  },
+  {
+    "pantone": "1205-c",
+    "hex": "#FFDF8F"
+  },
+  {
+    "pantone": "1215-c",
+    "hex": "#FFD674"
+  },
+  {
+    "pantone": "1225-c",
+    "hex": "#FFC645"
+  },
+  {
+    "pantone": "1235-c",
+    "hex": "#FFB721"
+  },
+  {
+    "pantone": "1245-c",
+    "hex": "#CF9216"
+  },
+  {
+    "pantone": "1255-c",
+    "hex": "#B38220"
+  },
+  {
+    "pantone": "1265-c",
+    "hex": "#8C6925"
+  },
+  {
+    "pantone": "120-c",
+    "hex": "#FFDA67"
+  },
+  {
+    "pantone": "121-c",
+    "hex": "#FFD659"
+  },
+  {
+    "pantone": "122-c",
+    "hex": "#FFCF42"
+  },
+  {
+    "pantone": "123-c",
+    "hex": "#FFC52E"
+  },
+  {
+    "pantone": "124-c",
+    "hex": "#F5AA00"
+  },
+  {
+    "pantone": "125-c",
+    "hex": "#BC8300"
+  },
+  {
+    "pantone": "126-c",
+    "hex": "#A37613"
+  },
+  {
+    "pantone": "7548-c",
+    "hex": "#FFC500"
+  },
+  {
+    "pantone": "7549-c",
+    "hex": "#FFB600"
+  },
+  {
+    "pantone": "7550-c",
+    "hex": "#D88E00"
+  },
+  {
+    "pantone": "7551-c",
+    "hex": "#BB7F00"
+  },
+  {
+    "pantone": "7552-c",
+    "hex": "#77521C"
+  },
+  {
+    "pantone": "7553-c",
+    "hex": "#5C4421"
+  },
+  {
+    "pantone": "7554-c",
+    "hex": "#4C3D2A"
+  },
+  {
+    "pantone": "7555-c",
+    "hex": "#D99D14"
+  },
+  {
+    "pantone": "7556-c",
+    "hex": "#BC8A20"
+  },
+  {
+    "pantone": "7557-c",
+    "hex": "#A67C25"
+  },
+  {
+    "pantone": "7558-c",
+    "hex": "#9D7127"
+  },
+  {
+    "pantone": "7559-c",
+    "hex": "#95692A"
+  },
+  {
+    "pantone": "7560-c",
+    "hex": "#82622E"
+  },
+  {
+    "pantone": "7561-c",
+    "hex": "#6E5B35"
+  },
+  {
+    "pantone": "134-c",
+    "hex": "#FFD16F"
+  },
+  {
+    "pantone": "135-c",
+    "hex": "#FFC559"
+  },
+  {
+    "pantone": "136-c",
+    "hex": "#FFBD3E"
+  },
+  {
+    "pantone": "137-c",
+    "hex": "#FFA200"
+  },
+  {
+    "pantone": "138-c",
+    "hex": "#E77C00"
+  },
+  {
+    "pantone": "139-c",
+    "hex": "#B66D06"
+  },
+  {
+    "pantone": "140-c",
+    "hex": "#77521A"
+  },
+  {
+    "pantone": "1345-c",
+    "hex": "#FFCE85"
+  },
+  {
+    "pantone": "1355-c",
+    "hex": "#FFC46E"
+  },
+  {
+    "pantone": "1365-c",
+    "hex": "#FFB348"
+  },
+  {
+    "pantone": "1375-c",
+    "hex": "#FF9D1A"
+  },
+  {
+    "pantone": "1385-c",
+    "hex": "#DD7900"
+  },
+  {
+    "pantone": "1395-c",
+    "hex": "#A06019"
+  },
+  {
+    "pantone": "1405-c",
+    "hex": "#734C1E"
+  },
+  {
+    "pantone": "141-c",
+    "hex": "#FDC55E"
+  },
+  {
+    "pantone": "142-c",
+    "hex": "#FABB49"
+  },
+  {
+    "pantone": "143-c",
+    "hex": "#FCB237"
+  },
+  {
+    "pantone": "144-c",
+    "hex": "#F78900"
+  },
+  {
+    "pantone": "145-c",
+    "hex": "#DB7F00"
+  },
+  {
+    "pantone": "146-c",
+    "hex": "#B06C13"
+  },
+  {
+    "pantone": "147-c",
+    "hex": "#745A28"
+  },
+  {
+    "pantone": "7408-c",
+    "hex": "#FFBD01"
+  },
+  {
+    "pantone": "7409-c",
+    "hex": "#FDB228"
+  },
+  {
+    "pantone": "7410-c",
+    "hex": "#FFAC75"
+  },
+  {
+    "pantone": "7411-c",
+    "hex": "#F1A55F"
+  },
+  {
+    "pantone": "7412-c",
+    "hex": "#DB8233"
+  },
+  {
+    "pantone": "7413-c",
+    "hex": "#E78434"
+  },
+  {
+    "pantone": "7414-c",
+    "hex": "#C76B15"
+  },
+  {
+    "pantone": "7562-c",
+    "hex": "#C2995F"
+  },
+  {
+    "pantone": "7563-c",
+    "hex": "#DF9A2E"
+  },
+  {
+    "pantone": "7564-c",
+    "hex": "#E28805"
+  },
+  {
+    "pantone": "7565-c",
+    "hex": "#D47A24"
+  },
+  {
+    "pantone": "7566-c",
+    "hex": "#B46433"
+  },
+  {
+    "pantone": "7567-c",
+    "hex": "#8F5430"
+  },
+  {
+    "pantone": "7568-c",
+    "hex": "#7A4F34"
+  },
+  {
+    "pantone": "7569-c",
+    "hex": "#E18827"
+  },
+  {
+    "pantone": "7570-c",
+    "hex": "#DB822C"
+  },
+  {
+    "pantone": "7571-c",
+    "hex": "#CE7C32"
+  },
+  {
+    "pantone": "7572-c",
+    "hex": "#BD7132"
+  },
+  {
+    "pantone": "7573-c",
+    "hex": "#AC652A"
+  },
+  {
+    "pantone": "7574-c",
+    "hex": "#A46937"
+  },
+  {
+    "pantone": "7575-c",
+    "hex": "#875C32"
+  },
+  {
+    "pantone": "712-c",
+    "hex": "#FFC89A"
+  },
+  {
+    "pantone": "713-c",
+    "hex": "#FFBD85"
+  },
+  {
+    "pantone": "714-c",
+    "hex": "#FFA961"
+  },
+  {
+    "pantone": "715-c",
+    "hex": "#FF8D2C"
+  },
+  {
+    "pantone": "716-c",
+    "hex": "#F37800"
+  },
+  {
+    "pantone": "717-c",
+    "hex": "#DA5E00"
+  },
+  {
+    "pantone": "718-c",
+    "hex": "#C64E00"
+  },
+  {
+    "pantone": "148-c",
+    "hex": "#FFC98B"
+  },
+  {
+    "pantone": "149-c",
+    "hex": "#FFC37D"
+  },
+  {
+    "pantone": "150-c",
+    "hex": "#FFB25A"
+  },
+  {
+    "pantone": "151-c",
+    "hex": "#FF8300"
+  },
+  {
+    "pantone": "152-c",
+    "hex": "#EE7200"
+  },
+  {
+    "pantone": "153-c",
+    "hex": "#C76B15"
+  },
+  {
+    "pantone": "154-c",
+    "hex": "#9F5817"
+  },
+  {
+    "pantone": "155-c",
+    "hex": "#F7D0A0"
+  },
+  {
+    "pantone": "156-c",
+    "hex": "#F6BB7C"
+  },
+  {
+    "pantone": "157-c",
+    "hex": "#F69F55"
+  },
+  {
+    "pantone": "158-c",
+    "hex": "#F57725"
+  },
+  {
+    "pantone": "159-c",
+    "hex": "#D85F16"
+  },
+  {
+    "pantone": "160-c",
+    "hex": "#A7531A"
+  },
+  {
+    "pantone": "161-c",
+    "hex": "#653C21"
+  },
+  {
+    "pantone": "1485-c",
+    "hex": "#FFAE61"
+  },
+  {
+    "pantone": "1495-c",
+    "hex": "#FF8E15"
+  },
+  {
+    "pantone": "1505-c",
+    "hex": "#FF6A00"
+  },
+  {
+    "pantone": "orange 021-c",
+    "hex": "#FF5200"
+  },
+  {
+    "pantone": "1525-c",
+    "hex": "#C14800"
+  },
+  {
+    "pantone": "1535-c",
+    "hex": "#99450A"
+  },
+  {
+    "pantone": "1545-c",
+    "hex": "#683717"
+  },
+  {
+    "pantone": "1555-c",
+    "hex": "#FFB98F"
+  },
+  {
+    "pantone": "1565-c",
+    "hex": "#FFA067"
+  },
+  {
+    "pantone": "1575-c",
+    "hex": "#FF7E2E"
+  },
+  {
+    "pantone": "1585-c",
+    "hex": "#FF6A0B"
+  },
+  {
+    "pantone": "1595-c",
+    "hex": "#DF5E13"
+  },
+  {
+    "pantone": "1605-c",
+    "hex": "#AB5421"
+  },
+  {
+    "pantone": "1615-c",
+    "hex": "#90471F"
+  },
+  {
+    "pantone": "162-c",
+    "hex": "#FFBE9F"
+  },
+  {
+    "pantone": "163-c",
+    "hex": "#FF9E6D"
+  },
+  {
+    "pantone": "164-c",
+    "hex": "#FF7E3F"
+  },
+  {
+    "pantone": "165-c",
+    "hex": "#FF681C"
+  },
+  {
+    "pantone": "166-c",
+    "hex": "#EB5300"
+  },
+  {
+    "pantone": "167-c",
+    "hex": "#C6531B"
+  },
+  {
+    "pantone": "168-c",
+    "hex": "#78391C"
+  },
+  {
+    "pantone": "7576-c",
+    "hex": "#E4854F"
+  },
+  {
+    "pantone": "7577-c",
+    "hex": "#EA7E3D"
+  },
+  {
+    "pantone": "7578-c",
+    "hex": "#E46A2D"
+  },
+  {
+    "pantone": "7579-c",
+    "hex": "#E4592A"
+  },
+  {
+    "pantone": "7580-c",
+    "hex": "#C75131"
+  },
+  {
+    "pantone": "7581-c",
+    "hex": "#8B4934"
+  },
+  {
+    "pantone": "7582-c",
+    "hex": "#6B4735"
+  },
+  {
+    "pantone": "1625-c",
+    "hex": "#FFA388"
+  },
+  {
+    "pantone": "1635-c",
+    "hex": "#FF8F6C"
+  },
+  {
+    "pantone": "1645-c",
+    "hex": "#FF6C36"
+  },
+  {
+    "pantone": "1655-c",
+    "hex": "#FF4D00"
+  },
+  {
+    "pantone": "1665-c",
+    "hex": "#E54400"
+  },
+  {
+    "pantone": "1675-c",
+    "hex": "#B1451E"
+  },
+  {
+    "pantone": "1685-c",
+    "hex": "#893A20"
+  },
+  {
+    "pantone": "169-c",
+    "hex": "#FFB4AA"
+  },
+  {
+    "pantone": "170-c",
+    "hex": "#FF8570"
+  },
+  {
+    "pantone": "171-c",
+    "hex": "#FF5C34"
+  },
+  {
+    "pantone": "172-c",
+    "hex": "#FF4710"
+  },
+  {
+    "pantone": "173-c",
+    "hex": "#D8471E"
+  },
+  {
+    "pantone": "174-c",
+    "hex": "#9B3820"
+  },
+  {
+    "pantone": "175-c",
+    "hex": "#6F3628"
+  },
+  {
+    "pantone": "7583-c",
+    "hex": "#CE612E"
+  },
+  {
+    "pantone": "7584-c",
+    "hex": "#C35626"
+  },
+  {
+    "pantone": "7585-c",
+    "hex": "#B65937"
+  },
+  {
+    "pantone": "7586-c",
+    "hex": "#A65231"
+  },
+  {
+    "pantone": "7587-c",
+    "hex": "#984A2D"
+  },
+  {
+    "pantone": "7588-c",
+    "hex": "#804C36"
+  },
+  {
+    "pantone": "7589-c",
+    "hex": "#5F4537"
+  },
+  {
+    "pantone": "7590-c",
+    "hex": "#D8B49E"
+  },
+  {
+    "pantone": "7591-c",
+    "hex": "#C97D5B"
+  },
+  {
+    "pantone": "7592-c",
+    "hex": "#B95333"
+  },
+  {
+    "pantone": "7593-c",
+    "hex": "#A4402A"
+  },
+  {
+    "pantone": "7594-c",
+    "hex": "#823A2D"
+  },
+  {
+    "pantone": "7595-c",
+    "hex": "#703D30"
+  },
+  {
+    "pantone": "7596-c",
+    "hex": "#5E3B30"
+  },
+  {
+    "pantone": "7597-c",
+    "hex": "#DB4223"
+  },
+  {
+    "pantone": "7598-c",
+    "hex": "#C64729"
+  },
+  {
+    "pantone": "7599-c",
+    "hex": "#B93C23"
+  },
+  {
+    "pantone": "7600-c",
+    "hex": "#933F2C"
+  },
+  {
+    "pantone": "7601-c",
+    "hex": "#86402A"
+  },
+  {
+    "pantone": "7602-c",
+    "hex": "#7E4931"
+  },
+  {
+    "pantone": "7603-c",
+    "hex": "#6A402F"
+  },
+  {
+    "pantone": "7604-c",
+    "hex": "#E8D5D4"
+  },
+  {
+    "pantone": "7605-c",
+    "hex": "#E5B9B3"
+  },
+  {
+    "pantone": "7606-c",
+    "hex": "#DE918A"
+  },
+  {
+    "pantone": "7607-c",
+    "hex": "#C96B60"
+  },
+  {
+    "pantone": "7608-c",
+    "hex": "#AC483D"
+  },
+  {
+    "pantone": "7609-c",
+    "hex": "#883934"
+  },
+  {
+    "pantone": "7610-c",
+    "hex": "#6C3331"
+  },
+  {
+    "pantone": "7611-c",
+    "hex": "#E1BBAF"
+  },
+  {
+    "pantone": "7612-c",
+    "hex": "#CD998D"
+  },
+  {
+    "pantone": "7613-c",
+    "hex": "#C0887E"
+  },
+  {
+    "pantone": "7614-c",
+    "hex": "#A77F74"
+  },
+  {
+    "pantone": "7615-c",
+    "hex": "#8A6760"
+  },
+  {
+    "pantone": "7616-c",
+    "hex": "#6D4C4B"
+  },
+  {
+    "pantone": "7617-c",
+    "hex": "#5A3C3D"
+  },
+  {
+    "pantone": "7520-c",
+    "hex": "#EEBEAF"
+  },
+  {
+    "pantone": "7521-c",
+    "hex": "#C59981"
+  },
+  {
+    "pantone": "7522-c",
+    "hex": "#BD6A55"
+  },
+  {
+    "pantone": "7523-c",
+    "hex": "#AF5C56"
+  },
+  {
+    "pantone": "7524-c",
+    "hex": "#AA5248"
+  },
+  {
+    "pantone": "7525-c",
+    "hex": "#A26950"
+  },
+  {
+    "pantone": "7526-c",
+    "hex": "#8F3A19"
+  },
+  {
+    "pantone": "489-c",
+    "hex": "#F1C1B2"
+  },
+  {
+    "pantone": "488-c",
+    "hex": "#F3B8A9"
+  },
+  {
+    "pantone": "487-c",
+    "hex": "#F2A593"
+  },
+  {
+    "pantone": "486-c",
+    "hex": "#F3907C"
+  },
+  {
+    "pantone": "485-c",
+    "hex": "#E6281A"
+  },
+  {
+    "pantone": "484-c",
+    "hex": "#A13222"
+  },
+  {
+    "pantone": "483-c",
+    "hex": "#682E24"
+  },
+  {
+    "pantone": "176-c",
+    "hex": "#FFB3B9"
+  },
+  {
+    "pantone": "177-c",
+    "hex": "#FF838A"
+  },
+  {
+    "pantone": "178-c",
+    "hex": "#FF5A59"
+  },
+  {
+    "pantone": "warm red-c",
+    "hex": "#FF4638"
+  },
+  {
+    "pantone": "179-c",
+    "hex": "#E93E2F"
+  },
+  {
+    "pantone": "180-c",
+    "hex": "#C53B32"
+  },
+  {
+    "pantone": "181-c",
+    "hex": "#85322C"
+  },
+  {
+    "pantone": "1765-c",
+    "hex": "#FFA6B5"
+  },
+  {
+    "pantone": "1775-c",
+    "hex": "#FF909F"
+  },
+  {
+    "pantone": "1785-c",
+    "hex": "#FF4C5C"
+  },
+  {
+    "pantone": "1788-c",
+    "hex": "#F82A34"
+  },
+  {
+    "pantone": "1795-c",
+    "hex": "#DA292D"
+  },
+  {
+    "pantone": "1805-c",
+    "hex": "#B62A2E"
+  },
+  {
+    "pantone": "1815-c",
+    "hex": "#812628"
+  },
+  {
+    "pantone": "1767-c",
+    "hex": "#FFB0C0"
+  },
+  {
+    "pantone": "1777-c",
+    "hex": "#FF647C"
+  },
+  {
+    "pantone": "1787-c",
+    "hex": "#FC3647"
+  },
+  {
+    "pantone": "red 032-c",
+    "hex": "#F8343D"
+  },
+  {
+    "pantone": "1797-c",
+    "hex": "#D33539"
+  },
+  {
+    "pantone": "1807-c",
+    "hex": "#A93438"
+  },
+  {
+    "pantone": "1817-c",
+    "hex": "#663333"
+  },
+  {
+    "pantone": "7618-c",
+    "hex": "#CF6D4F"
+  },
+  {
+    "pantone": "7619-c",
+    "hex": "#C84A36"
+  },
+  {
+    "pantone": "7620-c",
+    "hex": "#C1312C"
+  },
+  {
+    "pantone": "7621-c",
+    "hex": "#B52228"
+  },
+  {
+    "pantone": "7622-c",
+    "hex": "#99272B"
+  },
+  {
+    "pantone": "7623-c",
+    "hex": "#912B2A"
+  },
+  {
+    "pantone": "7624-c",
+    "hex": "#882F2D"
+  },
+  {
+    "pantone": "7625-c",
+    "hex": "#EC503C"
+  },
+  {
+    "pantone": "7626-c",
+    "hex": "#CE3624"
+  },
+  {
+    "pantone": "7627-c",
+    "hex": "#AE2E29"
+  },
+  {
+    "pantone": "7628-c",
+    "hex": "#A52C2A"
+  },
+  {
+    "pantone": "7629-c",
+    "hex": "#713332"
+  },
+  {
+    "pantone": "7630-c",
+    "hex": "#663230"
+  },
+  {
+    "pantone": "7631-c",
+    "hex": "#5A2E2D"
+  },
+  {
+    "pantone": "7415-c",
+    "hex": "#EBB8A6"
+  },
+  {
+    "pantone": "7416-c",
+    "hex": "#EF6952"
+  },
+  {
+    "pantone": "7417-c",
+    "hex": "#EA4B36"
+  },
+  {
+    "pantone": "7418-c",
+    "hex": "#D35458"
+  },
+  {
+    "pantone": "7419-c",
+    "hex": "#B54D5A"
+  },
+  {
+    "pantone": "7420-c",
+    "hex": "#A0223F"
+  },
+  {
+    "pantone": "7421-c",
+    "hex": "#691C31"
+  },
+  {
+    "pantone": "182-c",
+    "hex": "#FFBDCB"
+  },
+  {
+    "pantone": "183-c",
+    "hex": "#FF9BB1"
+  },
+  {
+    "pantone": "184-c",
+    "hex": "#FF5573"
+  },
+  {
+    "pantone": "185-c",
+    "hex": "#EE0028"
+  },
+  {
+    "pantone": "186-c",
+    "hex": "#D2142C"
+  },
+  {
+    "pantone": "187-c",
+    "hex": "#AE1B2C"
+  },
+  {
+    "pantone": "188-c",
+    "hex": "#7B252F"
+  },
+  {
+    "pantone": "196-c",
+    "hex": "#EFC7CE"
+  },
+  {
+    "pantone": "197-c",
+    "hex": "#EE9CAD"
+  },
+  {
+    "pantone": "198-c",
+    "hex": "#EA4661"
+  },
+  {
+    "pantone": "199-c",
+    "hex": "#E00031"
+  },
+  {
+    "pantone": "200-c",
+    "hex": "#C60B2F"
+  },
+  {
+    "pantone": "201-c",
+    "hex": "#A52235"
+  },
+  {
+    "pantone": "202-c",
+    "hex": "#8B2431"
+  },
+  {
+    "pantone": "189-c",
+    "hex": "#FEA4BB"
+  },
+  {
+    "pantone": "190-c",
+    "hex": "#FD7798"
+  },
+  {
+    "pantone": "191-c",
+    "hex": "#F6446B"
+  },
+  {
+    "pantone": "192-c",
+    "hex": "#F00C44"
+  },
+  {
+    "pantone": "193-c",
+    "hex": "#C8133B"
+  },
+  {
+    "pantone": "194-c",
+    "hex": "#A02941"
+  },
+  {
+    "pantone": "195-c",
+    "hex": "#7A2F3D"
+  },
+  {
+    "pantone": "1895-c",
+    "hex": "#F8B7CD"
+  },
+  {
+    "pantone": "1905-c",
+    "hex": "#FB9CBB"
+  },
+  {
+    "pantone": "1915-c",
+    "hex": "#F74F7F"
+  },
+  {
+    "pantone": "1925-c",
+    "hex": "#E9004A"
+  },
+  {
+    "pantone": "1935-c",
+    "hex": "#CD003C"
+  },
+  {
+    "pantone": "1945-c",
+    "hex": "#AD0D3C"
+  },
+  {
+    "pantone": "1955-c",
+    "hex": "#8E1535"
+  },
+  {
+    "pantone": "705-c",
+    "hex": "#F8DBE0"
+  },
+  {
+    "pantone": "706-c",
+    "hex": "#F9CFD8"
+  },
+  {
+    "pantone": "707-c",
+    "hex": "#FBB6C4"
+  },
+  {
+    "pantone": "708-c",
+    "hex": "#FF94A4"
+  },
+  {
+    "pantone": "709-c",
+    "hex": "#F76479"
+  },
+  {
+    "pantone": "710-c",
+    "hex": "#EA4151"
+  },
+  {
+    "pantone": "711-c",
+    "hex": "#D32D2E"
+  },
+  {
+    "pantone": "698-c",
+    "hex": "#F6D4D7"
+  },
+  {
+    "pantone": "699-c",
+    "hex": "#F8C4CC"
+  },
+  {
+    "pantone": "700-c",
+    "hex": "#F7ACB8"
+  },
+  {
+    "pantone": "701-c",
+    "hex": "#E98596"
+  },
+  {
+    "pantone": "702-c",
+    "hex": "#D85D72"
+  },
+  {
+    "pantone": "703-c",
+    "hex": "#BD3A48"
+  },
+  {
+    "pantone": "704-c",
+    "hex": "#A52C2F"
+  },
+  {
+    "pantone": "203-c",
+    "hex": "#EEB3C9"
+  },
+  {
+    "pantone": "204-c",
+    "hex": "#EC81A8"
+  },
+  {
+    "pantone": "205-c",
+    "hex": "#E8447A"
+  },
+  {
+    "pantone": "206-c",
+    "hex": "#D80035"
+  },
+  {
+    "pantone": "207-c",
+    "hex": "#AD0032"
+  },
+  {
+    "pantone": "208-c",
+    "hex": "#8C2040"
+  },
+  {
+    "pantone": "209-c",
+    "hex": "#73263D"
+  },
+  {
+    "pantone": "210-c",
+    "hex": "#FBA0C7"
+  },
+  {
+    "pantone": "211-c",
+    "hex": "#FA80B4"
+  },
+  {
+    "pantone": "212-c",
+    "hex": "#F65396"
+  },
+  {
+    "pantone": "213-c",
+    "hex": "#EA2475"
+  },
+  {
+    "pantone": "214-c",
+    "hex": "#D61966"
+  },
+  {
+    "pantone": "215-c",
+    "hex": "#AF1A56"
+  },
+  {
+    "pantone": "216-c",
+    "hex": "#7F2345"
+  },
+  {
+    "pantone": "7422-c",
+    "hex": "#F5CDD3"
+  },
+  {
+    "pantone": "7423-c",
+    "hex": "#E66586"
+  },
+  {
+    "pantone": "7424-c",
+    "hex": "#E84A83"
+  },
+  {
+    "pantone": "7425-c",
+    "hex": "#BA2552"
+  },
+  {
+    "pantone": "7426-c",
+    "hex": "#AA153D"
+  },
+  {
+    "pantone": "7427-c",
+    "hex": "#A01B2F"
+  },
+  {
+    "pantone": "7428-c",
+    "hex": "#6D2C3D"
+  },
+  {
+    "pantone": "7632-c",
+    "hex": "#D6C8CA"
+  },
+  {
+    "pantone": "7633-c",
+    "hex": "#C9A4A8"
+  },
+  {
+    "pantone": "7634-c",
+    "hex": "#C76884"
+  },
+  {
+    "pantone": "7635-c",
+    "hex": "#CF3562"
+  },
+  {
+    "pantone": "7636-c",
+    "hex": "#C7214A"
+  },
+  {
+    "pantone": "7637-c",
+    "hex": "#962E45"
+  },
+  {
+    "pantone": "7638-c",
+    "hex": "#832C40"
+  },
+  {
+    "pantone": "217-c",
+    "hex": "#ECBEDB"
+  },
+  {
+    "pantone": "218-c",
+    "hex": "#E96DAF"
+  },
+  {
+    "pantone": "219-c",
+    "hex": "#E01D82"
+  },
+  {
+    "pantone": "rubine red-c",
+    "hex": "#D70056"
+  },
+  {
+    "pantone": "220-c",
+    "hex": "#AC004F"
+  },
+  {
+    "pantone": "221-c",
+    "hex": "#970047"
+  },
+  {
+    "pantone": "222-c",
+    "hex": "#6F1E44"
+  },
+  {
+    "pantone": "7639-c",
+    "hex": "#946C72"
+  },
+  {
+    "pantone": "7640-c",
+    "hex": "#994054"
+  },
+  {
+    "pantone": "7641-c",
+    "hex": "#932C47"
+  },
+  {
+    "pantone": "7642-c",
+    "hex": "#742E49"
+  },
+  {
+    "pantone": "7643-c",
+    "hex": "#692E44"
+  },
+  {
+    "pantone": "7644-c",
+    "hex": "#5A2D3E"
+  },
+  {
+    "pantone": "7645-c",
+    "hex": "#512A38"
+  },
+  {
+    "pantone": "223-c",
+    "hex": "#F097CD"
+  },
+  {
+    "pantone": "224-c",
+    "hex": "#EE72BB"
+  },
+  {
+    "pantone": "225-c",
+    "hex": "#E42692"
+  },
+  {
+    "pantone": "226-c",
+    "hex": "#D8006D"
+  },
+  {
+    "pantone": "227-c",
+    "hex": "#AF005F"
+  },
+  {
+    "pantone": "228-c",
+    "hex": "#8C1155"
+  },
+  {
+    "pantone": "229-c",
+    "hex": "#672143"
+  },
+  {
+    "pantone": "230-c",
+    "hex": "#F6A9D7"
+  },
+  {
+    "pantone": "231-c",
+    "hex": "#F279C2"
+  },
+  {
+    "pantone": "232-c",
+    "hex": "#EC44A8"
+  },
+  {
+    "pantone": "rhodamine red-c",
+    "hex": "#E41493"
+  },
+  {
+    "pantone": "233-c",
+    "hex": "#CB007A"
+  },
+  {
+    "pantone": "234-c",
+    "hex": "#A60063"
+  },
+  {
+    "pantone": "235-c",
+    "hex": "#861252"
+  },
+  {
+    "pantone": "670-c",
+    "hex": "#EBD3E1"
+  },
+  {
+    "pantone": "671-c",
+    "hex": "#E8BCD8"
+  },
+  {
+    "pantone": "672-c",
+    "hex": "#E09FC8"
+  },
+  {
+    "pantone": "673-c",
+    "hex": "#DD87BB"
+  },
+  {
+    "pantone": "674-c",
+    "hex": "#CB5798"
+  },
+  {
+    "pantone": "675-c",
+    "hex": "#B42872"
+  },
+  {
+    "pantone": "676-c",
+    "hex": "#9A034E"
+  },
+  {
+    "pantone": "677-c",
+    "hex": "#E6CDDC"
+  },
+  {
+    "pantone": "678-c",
+    "hex": "#E7C9D9"
+  },
+  {
+    "pantone": "679-c",
+    "hex": "#DDBDD1"
+  },
+  {
+    "pantone": "680-c",
+    "hex": "#CB96B4"
+  },
+  {
+    "pantone": "681-c",
+    "hex": "#B46D95"
+  },
+  {
+    "pantone": "682-c",
+    "hex": "#9B4977"
+  },
+  {
+    "pantone": "683-c",
+    "hex": "#7E2853"
+  },
+  {
+    "pantone": "684-c",
+    "hex": "#E5C6D4"
+  },
+  {
+    "pantone": "685-c",
+    "hex": "#DDB6C8"
+  },
+  {
+    "pantone": "686-c",
+    "hex": "#D19FB7"
+  },
+  {
+    "pantone": "687-c",
+    "hex": "#BF84A2"
+  },
+  {
+    "pantone": "688-c",
+    "hex": "#A96387"
+  },
+  {
+    "pantone": "689-c",
+    "hex": "#8C3E67"
+  },
+  {
+    "pantone": "690-c",
+    "hex": "#642440"
+  },
+  {
+    "pantone": "510-c",
+    "hex": "#EEC0CA"
+  },
+  {
+    "pantone": "509-c",
+    "hex": "#EBB5C4"
+  },
+  {
+    "pantone": "508-c",
+    "hex": "#E7ABBA"
+  },
+  {
+    "pantone": "507-c",
+    "hex": "#D792A8"
+  },
+  {
+    "pantone": "506-c",
+    "hex": "#88364D"
+  },
+  {
+    "pantone": "505-c",
+    "hex": "#702E3D"
+  },
+  {
+    "pantone": "504-c",
+    "hex": "#592B32"
+  },
+  {
+    "pantone": "7429-c",
+    "hex": "#E4BBCA"
+  },
+  {
+    "pantone": "7430-c",
+    "hex": "#DFA9BE"
+  },
+  {
+    "pantone": "7431-c",
+    "hex": "#CC7E9C"
+  },
+  {
+    "pantone": "7432-c",
+    "hex": "#BB5D80"
+  },
+  {
+    "pantone": "7433-c",
+    "hex": "#AE3B64"
+  },
+  {
+    "pantone": "7434-c",
+    "hex": "#A03358"
+  },
+  {
+    "pantone": "7435-c",
+    "hex": "#8A274F"
+  },
+  {
+    "pantone": "691-c",
+    "hex": "#EBCDCF"
+  },
+  {
+    "pantone": "692-c",
+    "hex": "#E7BFC4"
+  },
+  {
+    "pantone": "693-c",
+    "hex": "#DDA4AC"
+  },
+  {
+    "pantone": "694-c",
+    "hex": "#C98690"
+  },
+  {
+    "pantone": "695-c",
+    "hex": "#BA6D7A"
+  },
+  {
+    "pantone": "696-c",
+    "hex": "#9C4855"
+  },
+  {
+    "pantone": "697-c",
+    "hex": "#8D3D45"
+  },
+  {
+    "pantone": "496-c",
+    "hex": "#F2C6CE"
+  },
+  {
+    "pantone": "495-c",
+    "hex": "#F4BDC7"
+  },
+  {
+    "pantone": "494-c",
+    "hex": "#EEA4B2"
+  },
+  {
+    "pantone": "493-c",
+    "hex": "#DE8797"
+  },
+  {
+    "pantone": "492-c",
+    "hex": "#943335"
+  },
+  {
+    "pantone": "491-c",
+    "hex": "#843334"
+  },
+  {
+    "pantone": "490-c",
+    "hex": "#5F2B2B"
+  },
+  {
+    "pantone": "503-c",
+    "hex": "#ECC5C7"
+  },
+  {
+    "pantone": "502-c",
+    "hex": "#E6BBC1"
+  },
+  {
+    "pantone": "501-c",
+    "hex": "#DCA5AA"
+  },
+  {
+    "pantone": "500-c",
+    "hex": "#C8868D"
+  },
+  {
+    "pantone": "499-c",
+    "hex": "#7D413A"
+  },
+  {
+    "pantone": "498-c",
+    "hex": "#6B3833"
+  },
+  {
+    "pantone": "497-c",
+    "hex": "#52302C"
+  },
+  {
+    "pantone": "5035-c",
+    "hex": "#E0C1C2"
+  },
+  {
+    "pantone": "5025-c",
+    "hex": "#DDB7BB"
+  },
+  {
+    "pantone": "5015-c",
+    "hex": "#CFA2A7"
+  },
+  {
+    "pantone": "5005-c",
+    "hex": "#B37D81"
+  },
+  {
+    "pantone": "4995-c",
+    "hex": "#9D6167"
+  },
+  {
+    "pantone": "4985-c",
+    "hex": "#8A4C52"
+  },
+  {
+    "pantone": "4975-c",
+    "hex": "#412020"
+  },
+  {
+    "pantone": "236-c",
+    "hex": "#F2AADD"
+  },
+  {
+    "pantone": "237-c",
+    "hex": "#EF88CE"
+  },
+  {
+    "pantone": "238-c",
+    "hex": "#E761BD"
+  },
+  {
+    "pantone": "239-c",
+    "hex": "#DE44AE"
+  },
+  {
+    "pantone": "240-c",
+    "hex": "#C83198"
+  },
+  {
+    "pantone": "241-c",
+    "hex": "#B32183"
+  },
+  {
+    "pantone": "242-c",
+    "hex": "#83265F"
+  },
+  {
+    "pantone": "2365-c",
+    "hex": "#F1BCE1"
+  },
+  {
+    "pantone": "2375-c",
+    "hex": "#E179C9"
+  },
+  {
+    "pantone": "2385-c",
+    "hex": "#D53FB1"
+  },
+  {
+    "pantone": "2395-c",
+    "hex": "#CC009D"
+  },
+  {
+    "pantone": "2405-c",
+    "hex": "#B1008B"
+  },
+  {
+    "pantone": "2415-c",
+    "hex": "#9F037C"
+  },
+  {
+    "pantone": "2425-c",
+    "hex": "#860863"
+  },
+  {
+    "pantone": "243-c",
+    "hex": "#ECB9E3"
+  },
+  {
+    "pantone": "244-c",
+    "hex": "#E69EDB"
+  },
+  {
+    "pantone": "245-c",
+    "hex": "#DF82D2"
+  },
+  {
+    "pantone": "246-c",
+    "hex": "#C92FAF"
+  },
+  {
+    "pantone": "247-c",
+    "hex": "#BD21A1"
+  },
+  {
+    "pantone": "248-c",
+    "hex": "#A6228D"
+  },
+  {
+    "pantone": "249-c",
+    "hex": "#822A6A"
+  },
+  {
+    "pantone": "7646-c",
+    "hex": "#A86D86"
+  },
+  {
+    "pantone": "7647-c",
+    "hex": "#AD3F73"
+  },
+  {
+    "pantone": "7648-c",
+    "hex": "#9C1F63"
+  },
+  {
+    "pantone": "7649-c",
+    "hex": "#8D1E60"
+  },
+  {
+    "pantone": "7650-c",
+    "hex": "#752457"
+  },
+  {
+    "pantone": "7651-c",
+    "hex": "#6C2C5C"
+  },
+  {
+    "pantone": "7652-c",
+    "hex": "#5E264F"
+  },
+  {
+    "pantone": "250-c",
+    "hex": "#E7BBE5"
+  },
+  {
+    "pantone": "251-c",
+    "hex": "#DC9EDF"
+  },
+  {
+    "pantone": "252-c",
+    "hex": "#CB67CE"
+  },
+  {
+    "pantone": "purple-c",
+    "hex": "#BA2FB7"
+  },
+  {
+    "pantone": "253-c",
+    "hex": "#AC25AA"
+  },
+  {
+    "pantone": "254-c",
+    "hex": "#982294"
+  },
+  {
+    "pantone": "255-c",
+    "hex": "#74266C"
+  },
+  {
+    "pantone": "517-c",
+    "hex": "#ECC7DF"
+  },
+  {
+    "pantone": "516-c",
+    "hex": "#E8C0DD"
+  },
+  {
+    "pantone": "515-c",
+    "hex": "#E1AED6"
+  },
+  {
+    "pantone": "514-c",
+    "hex": "#D18CC5"
+  },
+  {
+    "pantone": "513-c",
+    "hex": "#8F388B"
+  },
+  {
+    "pantone": "512-c",
+    "hex": "#823474"
+  },
+  {
+    "pantone": "511-c",
+    "hex": "#612E4F"
+  },
+  {
+    "pantone": "7436-c",
+    "hex": "#EED9E9"
+  },
+  {
+    "pantone": "7437-c",
+    "hex": "#CDAED0"
+  },
+  {
+    "pantone": "7438-c",
+    "hex": "#D39ED7"
+  },
+  {
+    "pantone": "7439-c",
+    "hex": "#B088B7"
+  },
+  {
+    "pantone": "7440-c",
+    "hex": "#A377A5"
+  },
+  {
+    "pantone": "7441-c",
+    "hex": "#9A60C0"
+  },
+  {
+    "pantone": "7442-c",
+    "hex": "#9243BC"
+  },
+  {
+    "pantone": "2562-c",
+    "hex": "#D5A9E1"
+  },
+  {
+    "pantone": "2572-c",
+    "hex": "#C78EDB"
+  },
+  {
+    "pantone": "2582-c",
+    "hex": "#AB54C5"
+  },
+  {
+    "pantone": "2592-c",
+    "hex": "#962FB4"
+  },
+  {
+    "pantone": "2602-c",
+    "hex": "#84229B"
+  },
+  {
+    "pantone": "2612-c",
+    "hex": "#762981"
+  },
+  {
+    "pantone": "2622-c",
+    "hex": "#643163"
+  },
+  {
+    "pantone": "7653-c",
+    "hex": "#958794"
+  },
+  {
+    "pantone": "7654-c",
+    "hex": "#A4789B"
+  },
+  {
+    "pantone": "7655-c",
+    "hex": "#A25C95"
+  },
+  {
+    "pantone": "7656-c",
+    "hex": "#8F3B7E"
+  },
+  {
+    "pantone": "7657-c",
+    "hex": "#6E2E63"
+  },
+  {
+    "pantone": "7658-c",
+    "hex": "#6B365F"
+  },
+  {
+    "pantone": "7659-c",
+    "hex": "#5E3754"
+  },
+  {
+    "pantone": "524-c",
+    "hex": "#D5C3D8"
+  },
+  {
+    "pantone": "523-c",
+    "hex": "#C8B0CE"
+  },
+  {
+    "pantone": "522-c",
+    "hex": "#B89BC4"
+  },
+  {
+    "pantone": "521-c",
+    "hex": "#A27EB0"
+  },
+  {
+    "pantone": "520-c",
+    "hex": "#61306B"
+  },
+  {
+    "pantone": "519-c",
+    "hex": "#57315D"
+  },
+  {
+    "pantone": "518-c",
+    "hex": "#4B3048"
+  },
+  {
+    "pantone": "5245-c",
+    "hex": "#DCCDD3"
+  },
+  {
+    "pantone": "5235-c",
+    "hex": "#D1BEC7"
+  },
+  {
+    "pantone": "5225-c",
+    "hex": "#C6B0BB"
+  },
+  {
+    "pantone": "5215-c",
+    "hex": "#AF96A6"
+  },
+  {
+    "pantone": "5205-c",
+    "hex": "#876579"
+  },
+  {
+    "pantone": "5195-c",
+    "hex": "#674559"
+  },
+  {
+    "pantone": "5185-c",
+    "hex": "#4B3040"
+  },
+  {
+    "pantone": "5175-c",
+    "hex": "#D9C7CF"
+  },
+  {
+    "pantone": "5165-c",
+    "hex": "#D4C1CD"
+  },
+  {
+    "pantone": "5155-c",
+    "hex": "#C0A6B8"
+  },
+  {
+    "pantone": "5145-c",
+    "hex": "#9D7893"
+  },
+  {
+    "pantone": "5135-c",
+    "hex": "#805575"
+  },
+  {
+    "pantone": "5125-c",
+    "hex": "#6A3B5D"
+  },
+  {
+    "pantone": "5115-c",
+    "hex": "#532C45"
+  },
+  {
+    "pantone": "531-c",
+    "hex": "#E0CAE8"
+  },
+  {
+    "pantone": "530-c",
+    "hex": "#D6B9E3"
+  },
+  {
+    "pantone": "529-c",
+    "hex": "#C7A3DC"
+  },
+  {
+    "pantone": "528-c",
+    "hex": "#B382D0"
+  },
+  {
+    "pantone": "527-c",
+    "hex": "#7A35A5"
+  },
+  {
+    "pantone": "526-c",
+    "hex": "#6D338A"
+  },
+  {
+    "pantone": "525-c",
+    "hex": "#552E5F"
+  },
+  {
+    "pantone": "256-c",
+    "hex": "#D6BEDC"
+  },
+  {
+    "pantone": "257-c",
+    "hex": "#C5A1CE"
+  },
+  {
+    "pantone": "258-c",
+    "hex": "#894998"
+  },
+  {
+    "pantone": "259-c",
+    "hex": "#6B2576"
+  },
+  {
+    "pantone": "260-c",
+    "hex": "#632765"
+  },
+  {
+    "pantone": "261-c",
+    "hex": "#5B2A5D"
+  },
+  {
+    "pantone": "262-c",
+    "hex": "#522A4F"
+  },
+  {
+    "pantone": "2563-c",
+    "hex": "#C8A3D7"
+  },
+  {
+    "pantone": "2573-c",
+    "hex": "#B786CA"
+  },
+  {
+    "pantone": "2583-c",
+    "hex": "#9D61B5"
+  },
+  {
+    "pantone": "2593-c",
+    "hex": "#7F3698"
+  },
+  {
+    "pantone": "2603-c",
+    "hex": "#6C2681"
+  },
+  {
+    "pantone": "2613-c",
+    "hex": "#642173"
+  },
+  {
+    "pantone": "2623-c",
+    "hex": "#5C2264"
+  },
+  {
+    "pantone": "7660-c",
+    "hex": "#988FA3"
+  },
+  {
+    "pantone": "7661-c",
+    "hex": "#8E6E96"
+  },
+  {
+    "pantone": "7662-c",
+    "hex": "#784281"
+  },
+  {
+    "pantone": "7663-c",
+    "hex": "#683375"
+  },
+  {
+    "pantone": "7664-c",
+    "hex": "#633578"
+  },
+  {
+    "pantone": "7665-c",
+    "hex": "#5C376D"
+  },
+  {
+    "pantone": "7666-c",
+    "hex": "#5B4D62"
+  },
+  {
+    "pantone": "2567-c",
+    "hex": "#BFA2D9"
+  },
+  {
+    "pantone": "2577-c",
+    "hex": "#A27EC9"
+  },
+  {
+    "pantone": "2587-c",
+    "hex": "#7C4BAE"
+  },
+  {
+    "pantone": "2597-c",
+    "hex": "#52188B"
+  },
+  {
+    "pantone": "2607-c",
+    "hex": "#491376"
+  },
+  {
+    "pantone": "2617-c",
+    "hex": "#411265"
+  },
+  {
+    "pantone": "2627-c",
+    "hex": "#371350"
+  },
+  {
+    "pantone": "263-c",
+    "hex": "#D6C5E6"
+  },
+  {
+    "pantone": "264-c",
+    "hex": "#BFA9E2"
+  },
+  {
+    "pantone": "265-c",
+    "hex": "#8767CC"
+  },
+  {
+    "pantone": "266-c",
+    "hex": "#6942BD"
+  },
+  {
+    "pantone": "267-c",
+    "hex": "#542C9D"
+  },
+  {
+    "pantone": "268-c",
+    "hex": "#512F81"
+  },
+  {
+    "pantone": "269-c",
+    "hex": "#4C2F6D"
+  },
+  {
+    "pantone": "2635-c",
+    "hex": "#C0B5E2"
+  },
+  {
+    "pantone": "2645-c",
+    "hex": "#A796D9"
+  },
+  {
+    "pantone": "2655-c",
+    "hex": "#8979D1"
+  },
+  {
+    "pantone": "2665-c",
+    "hex": "#6F59C3"
+  },
+  {
+    "pantone": "violet-c",
+    "hex": "#290098"
+  },
+  {
+    "pantone": "2685-c",
+    "hex": "#20056E"
+  },
+  {
+    "pantone": "2695-c",
+    "hex": "#291B45"
+  },
+  {
+    "pantone": "270-c",
+    "hex": "#B0B6E0"
+  },
+  {
+    "pantone": "271-c",
+    "hex": "#8E97D3"
+  },
+  {
+    "pantone": "272-c",
+    "hex": "#6674BF"
+  },
+  {
+    "pantone": "273-c",
+    "hex": "#0E175E"
+  },
+  {
+    "pantone": "274-c",
+    "hex": "#121850"
+  },
+  {
+    "pantone": "275-c",
+    "hex": "#161745"
+  },
+  {
+    "pantone": "276-c",
+    "hex": "#1F1C34"
+  },
+  {
+    "pantone": "2705-c",
+    "hex": "#9EA4DE"
+  },
+  {
+    "pantone": "2715-c",
+    "hex": "#7C85D4"
+  },
+  {
+    "pantone": "2725-c",
+    "hex": "#5261C7"
+  },
+  {
+    "pantone": "2735-c",
+    "hex": "#000387"
+  },
+  {
+    "pantone": "2745-c",
+    "hex": "#000F70"
+  },
+  {
+    "pantone": "2755-c",
+    "hex": "#0D1661"
+  },
+  {
+    "pantone": "2765-c",
+    "hex": "#161745"
+  },
+  {
+    "pantone": "7667-c",
+    "hex": "#687CA1"
+  },
+  {
+    "pantone": "7668-c",
+    "hex": "#5E6D9E"
+  },
+  {
+    "pantone": "7669-c",
+    "hex": "#585E9B"
+  },
+  {
+    "pantone": "7670-c",
+    "hex": "#4D5395"
+  },
+  {
+    "pantone": "7671-c",
+    "hex": "#484686"
+  },
+  {
+    "pantone": "7672-c",
+    "hex": "#414183"
+  },
+  {
+    "pantone": "7673-c",
+    "hex": "#4A5485"
+  },
+  {
+    "pantone": "7443-c",
+    "hex": "#DCDBE9"
+  },
+  {
+    "pantone": "7444-c",
+    "hex": "#B2B9DE"
+  },
+  {
+    "pantone": "7445-c",
+    "hex": "#A4A2C2"
+  },
+  {
+    "pantone": "7446-c",
+    "hex": "#8086C8"
+  },
+  {
+    "pantone": "7447-c",
+    "hex": "#5C4977"
+  },
+  {
+    "pantone": "7448-c",
+    "hex": "#49374B"
+  },
+  {
+    "pantone": "7449-c",
+    "hex": "#42273A"
+  },
+  {
+    "pantone": "7674-c",
+    "hex": "#838CB4"
+  },
+  {
+    "pantone": "7675-c",
+    "hex": "#767FAA"
+  },
+  {
+    "pantone": "7676-c",
+    "hex": "#6E659F"
+  },
+  {
+    "pantone": "7677-c",
+    "hex": "#6A5291"
+  },
+  {
+    "pantone": "7678-c",
+    "hex": "#634A8E"
+  },
+  {
+    "pantone": "7679-c",
+    "hex": "#4F3D80"
+  },
+  {
+    "pantone": "7680-c",
+    "hex": "#4D3478"
+  },
+  {
+    "pantone": "663-c",
+    "hex": "#E4E1E6"
+  },
+  {
+    "pantone": "664-c",
+    "hex": "#E0DBE2"
+  },
+  {
+    "pantone": "665-c",
+    "hex": "#C6BDD1"
+  },
+  {
+    "pantone": "666-c",
+    "hex": "#9F93B3"
+  },
+  {
+    "pantone": "667-c",
+    "hex": "#77688F"
+  },
+  {
+    "pantone": "668-c",
+    "hex": "#5E4C77"
+  },
+  {
+    "pantone": "669-c",
+    "hex": "#3B2D56"
+  },
+  {
+    "pantone": "5315-c",
+    "hex": "#D7D6DE"
+  },
+  {
+    "pantone": "5305-c",
+    "hex": "#C5C5D3"
+  },
+  {
+    "pantone": "5295-c",
+    "hex": "#B1B1C5"
+  },
+  {
+    "pantone": "5285-c",
+    "hex": "#8989A3"
+  },
+  {
+    "pantone": "5275-c",
+    "hex": "#545377"
+  },
+  {
+    "pantone": "5265-c",
+    "hex": "#393A5E"
+  },
+  {
+    "pantone": "5255-c",
+    "hex": "#1A1A34"
+  },
+  {
+    "pantone": "538-c",
+    "hex": "#C3D0DB"
+  },
+  {
+    "pantone": "537-c",
+    "hex": "#B8C8D8"
+  },
+  {
+    "pantone": "536-c",
+    "hex": "#9EB2C9"
+  },
+  {
+    "pantone": "535-c",
+    "hex": "#899FBD"
+  },
+  {
+    "pantone": "534-c",
+    "hex": "#09365E"
+  },
+  {
+    "pantone": "533-c",
+    "hex": "#1A2944"
+  },
+  {
+    "pantone": "532-c",
+    "hex": "#1A1F2A"
+  },
+  {
+    "pantone": "7541-c",
+    "hex": "#D9E0E3"
+  },
+  {
+    "pantone": "7542-c",
+    "hex": "#A3BDC5"
+  },
+  {
+    "pantone": "7543-c",
+    "hex": "#96A5AF"
+  },
+  {
+    "pantone": "7544-c",
+    "hex": "#738692"
+  },
+  {
+    "pantone": "7545-c",
+    "hex": "#3E5565"
+  },
+  {
+    "pantone": "7546-c",
+    "hex": "#203746"
+  },
+  {
+    "pantone": "7547-c",
+    "hex": "#111E29"
+  },
+  {
+    "pantone": "552-c",
+    "hex": "#B7D3DD"
+  },
+  {
+    "pantone": "551-c",
+    "hex": "#9FC7D4"
+  },
+  {
+    "pantone": "550-c",
+    "hex": "#86B8C9"
+  },
+  {
+    "pantone": "549-c",
+    "hex": "#62A4BA"
+  },
+  {
+    "pantone": "548-c",
+    "hex": "#003B4C"
+  },
+  {
+    "pantone": "547-c",
+    "hex": "#002E3B"
+  },
+  {
+    "pantone": "546-c",
+    "hex": "#012A30"
+  },
+  {
+    "pantone": "5455-c",
+    "hex": "#BDCED6"
+  },
+  {
+    "pantone": "5445-c",
+    "hex": "#B6C9D4"
+  },
+  {
+    "pantone": "5435-c",
+    "hex": "#A4BCCA"
+  },
+  {
+    "pantone": "5425-c",
+    "hex": "#7597AB"
+  },
+  {
+    "pantone": "5415-c",
+    "hex": "#557E95"
+  },
+  {
+    "pantone": "5405-c",
+    "hex": "#48758B"
+  },
+  {
+    "pantone": "5395-c",
+    "hex": "#03202D"
+  },
+  {
+    "pantone": "642-c",
+    "hex": "#D0DBE5"
+  },
+  {
+    "pantone": "643-c",
+    "hex": "#C2D3E2"
+  },
+  {
+    "pantone": "644-c",
+    "hex": "#95B7D3"
+  },
+  {
+    "pantone": "645-c",
+    "hex": "#72A0C3"
+  },
+  {
+    "pantone": "646-c",
+    "hex": "#4D89B3"
+  },
+  {
+    "pantone": "647-c",
+    "hex": "#006192"
+  },
+  {
+    "pantone": "648-c",
+    "hex": "#002F5D"
+  },
+  {
+    "pantone": "649-c",
+    "hex": "#D8E0E8"
+  },
+  {
+    "pantone": "650-c",
+    "hex": "#CBD8E5"
+  },
+  {
+    "pantone": "651-c",
+    "hex": "#A1BBD5"
+  },
+  {
+    "pantone": "652-c",
+    "hex": "#759CC0"
+  },
+  {
+    "pantone": "653-c",
+    "hex": "#196295"
+  },
+  {
+    "pantone": "654-c",
+    "hex": "#003C70"
+  },
+  {
+    "pantone": "655-c",
+    "hex": "#002654"
+  },
+  {
+    "pantone": "656-c",
+    "hex": "#DBE3EB"
+  },
+  {
+    "pantone": "657-c",
+    "hex": "#C4D6EA"
+  },
+  {
+    "pantone": "658-c",
+    "hex": "#ABC9E9"
+  },
+  {
+    "pantone": "659-c",
+    "hex": "#6CA4DC"
+  },
+  {
+    "pantone": "660-c",
+    "hex": "#007EC9"
+  },
+  {
+    "pantone": "661-c",
+    "hex": "#003995"
+  },
+  {
+    "pantone": "662-c",
+    "hex": "#001F70"
+  },
+  {
+    "pantone": "7450-c",
+    "hex": "#BAC3D9"
+  },
+  {
+    "pantone": "7451-c",
+    "hex": "#7CABE3"
+  },
+  {
+    "pantone": "7452-c",
+    "hex": "#7295DC"
+  },
+  {
+    "pantone": "7453-c",
+    "hex": "#6CA4DC"
+  },
+  {
+    "pantone": "7454-c",
+    "hex": "#548FB5"
+  },
+  {
+    "pantone": "7455-c",
+    "hex": "#0D5EAD"
+  },
+  {
+    "pantone": "7456-c",
+    "hex": "#4F6EB0"
+  },
+  {
+    "pantone": "2706-c",
+    "hex": "#C6D1E9"
+  },
+  {
+    "pantone": "2716-c",
+    "hex": "#94ADE4"
+  },
+  {
+    "pantone": "2726-c",
+    "hex": "#0D5FC7"
+  },
+  {
+    "pantone": "2736-c",
+    "hex": "#002DAA"
+  },
+  {
+    "pantone": "2746-c",
+    "hex": "#00248E"
+  },
+  {
+    "pantone": "2756-c",
+    "hex": "#00236C"
+  },
+  {
+    "pantone": "2766-c",
+    "hex": "#001D4D"
+  },
+  {
+    "pantone": "2708-c",
+    "hex": "#B1CBEA"
+  },
+  {
+    "pantone": "2718-c",
+    "hex": "#3B89D9"
+  },
+  {
+    "pantone": "2728-c",
+    "hex": "#004CBB"
+  },
+  {
+    "pantone": "2738-c",
+    "hex": "#00158A"
+  },
+  {
+    "pantone": "2748-c",
+    "hex": "#001C6F"
+  },
+  {
+    "pantone": "2758-c",
+    "hex": "#001F60"
+  },
+  {
+    "pantone": "2768-c",
+    "hex": "#001D48"
+  },
+  {
+    "pantone": "2707-c",
+    "hex": "#BFD7EE"
+  },
+  {
+    "pantone": "2717-c",
+    "hex": "#9CC5EC"
+  },
+  {
+    "pantone": "2727-c",
+    "hex": "#0080E1"
+  },
+  {
+    "pantone": "blue 072-c",
+    "hex": "#001A9F"
+  },
+  {
+    "pantone": "2747-c",
+    "hex": "#001E71"
+  },
+  {
+    "pantone": "2757-c",
+    "hex": "#00205E"
+  },
+  {
+    "pantone": "2767-c",
+    "hex": "#00284B"
+  },
+  {
+    "pantone": "277-c",
+    "hex": "#A6CAE9"
+  },
+  {
+    "pantone": "278-c",
+    "hex": "#7FB9E9"
+  },
+  {
+    "pantone": "279-c",
+    "hex": "#0090DE"
+  },
+  {
+    "pantone": "reflex blue-c",
+    "hex": "#001C88"
+  },
+  {
+    "pantone": "280-c",
+    "hex": "#002368"
+  },
+  {
+    "pantone": "281-c",
+    "hex": "#00215B"
+  },
+  {
+    "pantone": "282-c",
+    "hex": "#001E41"
+  },
+  {
+    "pantone": "283-c",
+    "hex": "#89C1EA"
+  },
+  {
+    "pantone": "284-c",
+    "hex": "#55AAE3"
+  },
+  {
+    "pantone": "285-c",
+    "hex": "#0072CD"
+  },
+  {
+    "pantone": "286-c",
+    "hex": "#00369F"
+  },
+  {
+    "pantone": "287-c",
+    "hex": "#003287"
+  },
+  {
+    "pantone": "288-c",
+    "hex": "#002F73"
+  },
+  {
+    "pantone": "289-c",
+    "hex": "#002340"
+  },
+  {
+    "pantone": "7681-c",
+    "hex": "#8DA7CB"
+  },
+  {
+    "pantone": "7682-c",
+    "hex": "#5B86B7"
+  },
+  {
+    "pantone": "7683-c",
+    "hex": "#2C6DA9"
+  },
+  {
+    "pantone": "7684-c",
+    "hex": "#125E9C"
+  },
+  {
+    "pantone": "7685-c",
+    "hex": "#005696"
+  },
+  {
+    "pantone": "7686-c",
+    "hex": "#005090"
+  },
+  {
+    "pantone": "7687-c",
+    "hex": "#00448A"
+  },
+  {
+    "pantone": "545-c",
+    "hex": "#C3DAE7"
+  },
+  {
+    "pantone": "544-c",
+    "hex": "#BAD5E7"
+  },
+  {
+    "pantone": "543-c",
+    "hex": "#9BC6E1"
+  },
+  {
+    "pantone": "542-c",
+    "hex": "#71AFD4"
+  },
+  {
+    "pantone": "541-c",
+    "hex": "#003D71"
+  },
+  {
+    "pantone": "540-c",
+    "hex": "#003157"
+  },
+  {
+    "pantone": "539-c",
+    "hex": "#002538"
+  },
+  {
+    "pantone": "290-c",
+    "hex": "#B5D9EC"
+  },
+  {
+    "pantone": "291-c",
+    "hex": "#90CBEB"
+  },
+  {
+    "pantone": "292-c",
+    "hex": "#4EB2E7"
+  },
+  {
+    "pantone": "293-c",
+    "hex": "#0040A6"
+  },
+  {
+    "pantone": "294-c",
+    "hex": "#00306D"
+  },
+  {
+    "pantone": "295-c",
+    "hex": "#002956"
+  },
+  {
+    "pantone": "296-c",
+    "hex": "#001B2C"
+  },
+  {
+    "pantone": "2905-c",
+    "hex": "#83C7E7"
+  },
+  {
+    "pantone": "2915-c",
+    "hex": "#46B3E3"
+  },
+  {
+    "pantone": "2925-c",
+    "hex": "#009DDF"
+  },
+  {
+    "pantone": "2935-c",
+    "hex": "#0058B7"
+  },
+  {
+    "pantone": "2945-c",
+    "hex": "#004C97"
+  },
+  {
+    "pantone": "2955-c",
+    "hex": "#003864"
+  },
+  {
+    "pantone": "2965-c",
+    "hex": "#00253D"
+  },
+  {
+    "pantone": "297-c",
+    "hex": "#5BC5E9"
+  },
+  {
+    "pantone": "298-c",
+    "hex": "#00B6E6"
+  },
+  {
+    "pantone": "299-c",
+    "hex": "#00A2E0"
+  },
+  {
+    "pantone": "300-c",
+    "hex": "#005FB9"
+  },
+  {
+    "pantone": "301-c",
+    "hex": "#004B87"
+  },
+  {
+    "pantone": "302-c",
+    "hex": "#003C5E"
+  },
+  {
+    "pantone": "303-c",
+    "hex": "#002A3A"
+  },
+  {
+    "pantone": "7688-c",
+    "hex": "#1D98CA"
+  },
+  {
+    "pantone": "7689-c",
+    "hex": "#008EC1"
+  },
+  {
+    "pantone": "7690-c",
+    "hex": "#0075A7"
+  },
+  {
+    "pantone": "7691-c",
+    "hex": "#006097"
+  },
+  {
+    "pantone": "7692-c",
+    "hex": "#005486"
+  },
+  {
+    "pantone": "7693-c",
+    "hex": "#004A77"
+  },
+  {
+    "pantone": "7694-c",
+    "hex": "#00426B"
+  },
+  {
+    "pantone": "2975-c",
+    "hex": "#8FD6EA"
+  },
+  {
+    "pantone": "2985-c",
+    "hex": "#3AC1E9"
+  },
+  {
+    "pantone": "2995-c",
+    "hex": "#00A9E2"
+  },
+  {
+    "pantone": "3005-c",
+    "hex": "#0077C8"
+  },
+  {
+    "pantone": "3015-c",
+    "hex": "#00619C"
+  },
+  {
+    "pantone": "3025-c",
+    "hex": "#004F72"
+  },
+  {
+    "pantone": "3035-c",
+    "hex": "#003E52"
+  },
+  {
+    "pantone": "7695-c",
+    "hex": "#73A4B9"
+  },
+  {
+    "pantone": "7696-c",
+    "hex": "#5799AF"
+  },
+  {
+    "pantone": "7697-c",
+    "hex": "#4286A0"
+  },
+  {
+    "pantone": "7698-c",
+    "hex": "#35748D"
+  },
+  {
+    "pantone": "7699-c",
+    "hex": "#27647E"
+  },
+  {
+    "pantone": "7700-c",
+    "hex": "#005B7D"
+  },
+  {
+    "pantone": "7701-c",
+    "hex": "#005677"
+  },
+  {
+    "pantone": "7457-c",
+    "hex": "#B5DAE4"
+  },
+  {
+    "pantone": "7458-c",
+    "hex": "#67B2C9"
+  },
+  {
+    "pantone": "7459-c",
+    "hex": "#2997B4"
+  },
+  {
+    "pantone": "7460-c",
+    "hex": "#0084C1"
+  },
+  {
+    "pantone": "7461-c",
+    "hex": "#007CB9"
+  },
+  {
+    "pantone": "7462-c",
+    "hex": "#00558B"
+  },
+  {
+    "pantone": "7463-c",
+    "hex": "#002C49"
+  },
+  {
+    "pantone": "304-c",
+    "hex": "#90DAEA"
+  },
+  {
+    "pantone": "305-c",
+    "hex": "#3AC8E7"
+  },
+  {
+    "pantone": "306-c",
+    "hex": "#00B4E3"
+  },
+  {
+    "pantone": "process blue-c",
+    "hex": "#0082C8"
+  },
+  {
+    "pantone": "307-c",
+    "hex": "#0069A5"
+  },
+  {
+    "pantone": "308-c",
+    "hex": "#00567C"
+  },
+  {
+    "pantone": "309-c",
+    "hex": "#003A49"
+  },
+  {
+    "pantone": "635-c",
+    "hex": "#9EDBE9"
+  },
+  {
+    "pantone": "636-c",
+    "hex": "#7FD2E7"
+  },
+  {
+    "pantone": "637-c",
+    "hex": "#31C2E1"
+  },
+  {
+    "pantone": "638-c",
+    "hex": "#00ADD8"
+  },
+  {
+    "pantone": "639-c",
+    "hex": "#0095CA"
+  },
+  {
+    "pantone": "640-c",
+    "hex": "#0082BC"
+  },
+  {
+    "pantone": "641-c",
+    "hex": "#0066A1"
+  },
+  {
+    "pantone": "7702-c",
+    "hex": "#2AA8C6"
+  },
+  {
+    "pantone": "7703-c",
+    "hex": "#009ABE"
+  },
+  {
+    "pantone": "7704-c",
+    "hex": "#0084AD"
+  },
+  {
+    "pantone": "7705-c",
+    "hex": "#006E96"
+  },
+  {
+    "pantone": "7706-c",
+    "hex": "#006B90"
+  },
+  {
+    "pantone": "7707-c",
+    "hex": "#00607F"
+  },
+  {
+    "pantone": "7708-c",
+    "hex": "#005570"
+  },
+  {
+    "pantone": "628-c",
+    "hex": "#B3DBE0"
+  },
+  {
+    "pantone": "629-c",
+    "hex": "#92D0DB"
+  },
+  {
+    "pantone": "630-c",
+    "hex": "#6CC5D6"
+  },
+  {
+    "pantone": "631-c",
+    "hex": "#0FAFC8"
+  },
+  {
+    "pantone": "632-c",
+    "hex": "#0092B3"
+  },
+  {
+    "pantone": "633-c",
+    "hex": "#007398"
+  },
+  {
+    "pantone": "634-c",
+    "hex": "#005E83"
+  },
+  {
+    "pantone": "310-c",
+    "hex": "#56D0E4"
+  },
+  {
+    "pantone": "311-c",
+    "hex": "#00C0DD"
+  },
+  {
+    "pantone": "312-c",
+    "hex": "#00A7CE"
+  },
+  {
+    "pantone": "313-c",
+    "hex": "#0090BE"
+  },
+  {
+    "pantone": "314-c",
+    "hex": "#007EA5"
+  },
+  {
+    "pantone": "315-c",
+    "hex": "#00647F"
+  },
+  {
+    "pantone": "316-c",
+    "hex": "#004750"
+  },
+  {
+    "pantone": "3105-c",
+    "hex": "#53D1E1"
+  },
+  {
+    "pantone": "3115-c",
+    "hex": "#00C0D7"
+  },
+  {
+    "pantone": "3125-c",
+    "hex": "#00ADC9"
+  },
+  {
+    "pantone": "3135-c",
+    "hex": "#008CAC"
+  },
+  {
+    "pantone": "3145-c",
+    "hex": "#00768E"
+  },
+  {
+    "pantone": "3155-c",
+    "hex": "#005F71"
+  },
+  {
+    "pantone": "3165-c",
+    "hex": "#004E59"
+  },
+  {
+    "pantone": "7709-c",
+    "hex": "#58AFBB"
+  },
+  {
+    "pantone": "7710-c",
+    "hex": "#00A5B5"
+  },
+  {
+    "pantone": "7711-c",
+    "hex": "#0095A9"
+  },
+  {
+    "pantone": "7712-c",
+    "hex": "#00819A"
+  },
+  {
+    "pantone": "7713-c",
+    "hex": "#007A89"
+  },
+  {
+    "pantone": "7714-c",
+    "hex": "#00747F"
+  },
+  {
+    "pantone": "7715-c",
+    "hex": "#005F67"
+  },
+  {
+    "pantone": "317-c",
+    "hex": "#ADE3E4"
+  },
+  {
+    "pantone": "318-c",
+    "hex": "#7FDADF"
+  },
+  {
+    "pantone": "319-c",
+    "hex": "#00CAD3"
+  },
+  {
+    "pantone": "320-c",
+    "hex": "#0098A8"
+  },
+  {
+    "pantone": "321-c",
+    "hex": "#008895"
+  },
+  {
+    "pantone": "322-c",
+    "hex": "#007078"
+  },
+  {
+    "pantone": "323-c",
+    "hex": "#005E63"
+  },
+  {
+    "pantone": "7464-c",
+    "hex": "#9ECFCB"
+  },
+  {
+    "pantone": "7465-c",
+    "hex": "#34BEAD"
+  },
+  {
+    "pantone": "7466-c",
+    "hex": "#00AEBD"
+  },
+  {
+    "pantone": "7467-c",
+    "hex": "#009FAE"
+  },
+  {
+    "pantone": "7468-c",
+    "hex": "#007298"
+  },
+  {
+    "pantone": "7469-c",
+    "hex": "#005E84"
+  },
+  {
+    "pantone": "7470-c",
+    "hex": "#00586F"
+  },
+  {
+    "pantone": "7471-c",
+    "hex": "#77DCD6"
+  },
+  {
+    "pantone": "7472-c",
+    "hex": "#53B7B4"
+  },
+  {
+    "pantone": "7473-c",
+    "hex": "#05968A"
+  },
+  {
+    "pantone": "7474-c",
+    "hex": "#007582"
+  },
+  {
+    "pantone": "7475-c",
+    "hex": "#3F787A"
+  },
+  {
+    "pantone": "7476-c",
+    "hex": "#005157"
+  },
+  {
+    "pantone": "7477-c",
+    "hex": "#1D4C5A"
+  },
+  {
+    "pantone": "5523-c",
+    "hex": "#B4CDD0"
+  },
+  {
+    "pantone": "5513-c",
+    "hex": "#A9C6C9"
+  },
+  {
+    "pantone": "5503-c",
+    "hex": "#8FB7BC"
+  },
+  {
+    "pantone": "5493-c",
+    "hex": "#79A8AE"
+  },
+  {
+    "pantone": "5483-c",
+    "hex": "#45858E"
+  },
+  {
+    "pantone": "5473-c",
+    "hex": "#005C66"
+  },
+  {
+    "pantone": "5463-c",
+    "hex": "#00252C"
+  },
+  {
+    "pantone": "7716-c",
+    "hex": "#009592"
+  },
+  {
+    "pantone": "7717-c",
+    "hex": "#00817D"
+  },
+  {
+    "pantone": "7718-c",
+    "hex": "#007474"
+  },
+  {
+    "pantone": "7719-c",
+    "hex": "#006B67"
+  },
+  {
+    "pantone": "7720-c",
+    "hex": "#00625D"
+  },
+  {
+    "pantone": "7721-c",
+    "hex": "#005C5D"
+  },
+  {
+    "pantone": "7722-c",
+    "hex": "#004E50"
+  },
+  {
+    "pantone": "324-c",
+    "hex": "#96DADB"
+  },
+  {
+    "pantone": "325-c",
+    "hex": "#5CCCCA"
+  },
+  {
+    "pantone": "326-c",
+    "hex": "#00AEAA"
+  },
+  {
+    "pantone": "327-c",
+    "hex": "#008174"
+  },
+  {
+    "pantone": "328-c",
+    "hex": "#007168"
+  },
+  {
+    "pantone": "329-c",
+    "hex": "#00655E"
+  },
+  {
+    "pantone": "330-c",
+    "hex": "#00514C"
+  },
+  {
+    "pantone": "3242-c",
+    "hex": "#65DBD6"
+  },
+  {
+    "pantone": "3252-c",
+    "hex": "#00CEC9"
+  },
+  {
+    "pantone": "3262-c",
+    "hex": "#00BAB4"
+  },
+  {
+    "pantone": "3272-c",
+    "hex": "#00A19C"
+  },
+  {
+    "pantone": "3282-c",
+    "hex": "#00837C"
+  },
+  {
+    "pantone": "3292-c",
+    "hex": "#00564F"
+  },
+  {
+    "pantone": "3302-c",
+    "hex": "#004C46"
+  },
+  {
+    "pantone": "3245-c",
+    "hex": "#72DDD4"
+  },
+  {
+    "pantone": "3255-c",
+    "hex": "#00D1C4"
+  },
+  {
+    "pantone": "3265-c",
+    "hex": "#00C2B3"
+  },
+  {
+    "pantone": "3275-c",
+    "hex": "#00AF9B"
+  },
+  {
+    "pantone": "3285-c",
+    "hex": "#009383"
+  },
+  {
+    "pantone": "3295-c",
+    "hex": "#007666"
+  },
+  {
+    "pantone": "3305-c",
+    "hex": "#004C42"
+  },
+  {
+    "pantone": "3248-c",
+    "hex": "#6ACCBA"
+  },
+  {
+    "pantone": "3258-c",
+    "hex": "#41C3B2"
+  },
+  {
+    "pantone": "3268-c",
+    "hex": "#00A78F"
+  },
+  {
+    "pantone": "3278-c",
+    "hex": "#009677"
+  },
+  {
+    "pantone": "3288-c",
+    "hex": "#007F65"
+  },
+  {
+    "pantone": "3298-c",
+    "hex": "#006752"
+  },
+  {
+    "pantone": "3308-c",
+    "hex": "#004437"
+  },
+  {
+    "pantone": "566-c",
+    "hex": "#B6DCD3"
+  },
+  {
+    "pantone": "565-c",
+    "hex": "#9CD4CA"
+  },
+  {
+    "pantone": "564-c",
+    "hex": "#7FC8BE"
+  },
+  {
+    "pantone": "563-c",
+    "hex": "#61B9AF"
+  },
+  {
+    "pantone": "562-c",
+    "hex": "#006C62"
+  },
+  {
+    "pantone": "561-c",
+    "hex": "#00584E"
+  },
+  {
+    "pantone": "560-c",
+    "hex": "#193C34"
+  },
+  {
+    "pantone": "573-c",
+    "hex": "#B1E0D8"
+  },
+  {
+    "pantone": "572-c",
+    "hex": "#9FDDD2"
+  },
+  {
+    "pantone": "571-c",
+    "hex": "#90D9CE"
+  },
+  {
+    "pantone": "570-c",
+    "hex": "#64C9BB"
+  },
+  {
+    "pantone": "569-c",
+    "hex": "#007F6F"
+  },
+  {
+    "pantone": "568-c",
+    "hex": "#00695A"
+  },
+  {
+    "pantone": "567-c",
+    "hex": "#133D34"
+  },
+  {
+    "pantone": "559-c",
+    "hex": "#AFC9B9"
+  },
+  {
+    "pantone": "558-c",
+    "hex": "#9BBDAC"
+  },
+  {
+    "pantone": "557-c",
+    "hex": "#85AE9A"
+  },
+  {
+    "pantone": "556-c",
+    "hex": "#709F88"
+  },
+  {
+    "pantone": "555-c",
+    "hex": "#2C6E50"
+  },
+  {
+    "pantone": "554-c",
+    "hex": "#225940"
+  },
+  {
+    "pantone": "553-c",
+    "hex": "#294534"
+  },
+  {
+    "pantone": "5595-c",
+    "hex": "#BDCCC3"
+  },
+  {
+    "pantone": "5585-c",
+    "hex": "#A7BDB2"
+  },
+  {
+    "pantone": "5575-c",
+    "hex": "#91ABA1"
+  },
+  {
+    "pantone": "5565-c",
+    "hex": "#7D9C91"
+  },
+  {
+    "pantone": "5555-c",
+    "hex": "#597E71"
+  },
+  {
+    "pantone": "5545-c",
+    "hex": "#41685B"
+  },
+  {
+    "pantone": "5535-c",
+    "hex": "#16302A"
+  },
+  {
+    "pantone": "5665-c",
+    "hex": "#BAC3B9"
+  },
+  {
+    "pantone": "5655-c",
+    "hex": "#B1BBAF"
+  },
+  {
+    "pantone": "5645-c",
+    "hex": "#A4B1A4"
+  },
+  {
+    "pantone": "5635-c",
+    "hex": "#95A497"
+  },
+  {
+    "pantone": "5625-c",
+    "hex": "#718372"
+  },
+  {
+    "pantone": "5615-c",
+    "hex": "#5E7160"
+  },
+  {
+    "pantone": "5605-c",
+    "hex": "#22362C"
+  },
+  {
+    "pantone": "5527-c",
+    "hex": "#BCC9C6"
+  },
+  {
+    "pantone": "5517-c",
+    "hex": "#AFBEBB"
+  },
+  {
+    "pantone": "5507-c",
+    "hex": "#9CAFAC"
+  },
+  {
+    "pantone": "5497-c",
+    "hex": "#829794"
+  },
+  {
+    "pantone": "5487-c",
+    "hex": "#5C7774"
+  },
+  {
+    "pantone": "5477-c",
+    "hex": "#3B5A57"
+  },
+  {
+    "pantone": "5467-c",
+    "hex": "#18322F"
+  },
+  {
+    "pantone": "621-c",
+    "hex": "#D0E0D8"
+  },
+  {
+    "pantone": "622-c",
+    "hex": "#B5CBC2"
+  },
+  {
+    "pantone": "623-c",
+    "hex": "#9ABAAF"
+  },
+  {
+    "pantone": "624-c",
+    "hex": "#769D91"
+  },
+  {
+    "pantone": "625-c",
+    "hex": "#4C7D70"
+  },
+  {
+    "pantone": "626-c",
+    "hex": "#235B4E"
+  },
+  {
+    "pantone": "627-c",
+    "hex": "#0F312B"
+  },
+  {
+    "pantone": "331-c",
+    "hex": "#A4E6DA"
+  },
+  {
+    "pantone": "332-c",
+    "hex": "#86E1D2"
+  },
+  {
+    "pantone": "333-c",
+    "hex": "#20D7C3"
+  },
+  {
+    "pantone": "green-c",
+    "hex": "#00A889"
+  },
+  {
+    "pantone": "334-c",
+    "hex": "#00957A"
+  },
+  {
+    "pantone": "335-c",
+    "hex": "#007960"
+  },
+  {
+    "pantone": "336-c",
+    "hex": "#006350"
+  },
+  {
+    "pantone": "337-c",
+    "hex": "#8DD4BE"
+  },
+  {
+    "pantone": "338-c",
+    "hex": "#6ACCB2"
+  },
+  {
+    "pantone": "339-c",
+    "hex": "#00B28B"
+  },
+  {
+    "pantone": "340-c",
+    "hex": "#009460"
+  },
+  {
+    "pantone": "341-c",
+    "hex": "#007753"
+  },
+  {
+    "pantone": "342-c",
+    "hex": "#006549"
+  },
+  {
+    "pantone": "343-c",
+    "hex": "#0C5541"
+  },
+  {
+    "pantone": "7723-c",
+    "hex": "#4DA586"
+  },
+  {
+    "pantone": "7724-c",
+    "hex": "#00936E"
+  },
+  {
+    "pantone": "7725-c",
+    "hex": "#008356"
+  },
+  {
+    "pantone": "7726-c",
+    "hex": "#00794C"
+  },
+  {
+    "pantone": "7727-c",
+    "hex": "#006C46"
+  },
+  {
+    "pantone": "7728-c",
+    "hex": "#006545"
+  },
+  {
+    "pantone": "7729-c",
+    "hex": "#005745"
+  },
+  {
+    "pantone": "3375-c",
+    "hex": "#73DEC1"
+  },
+  {
+    "pantone": "3385-c",
+    "hex": "#3CD4AF"
+  },
+  {
+    "pantone": "3395-c",
+    "hex": "#00BE8B"
+  },
+  {
+    "pantone": "3405-c",
+    "hex": "#00AA6A"
+  },
+  {
+    "pantone": "3415-c",
+    "hex": "#00754C"
+  },
+  {
+    "pantone": "3425-c",
+    "hex": "#006041"
+  },
+  {
+    "pantone": "3435-c",
+    "hex": "#124533"
+  },
+  {
+    "pantone": "344-c",
+    "hex": "#A1D8B4"
+  },
+  {
+    "pantone": "345-c",
+    "hex": "#93D4AD"
+  },
+  {
+    "pantone": "346-c",
+    "hex": "#70CA99"
+  },
+  {
+    "pantone": "347-c",
+    "hex": "#009847"
+  },
+  {
+    "pantone": "348-c",
+    "hex": "#008340"
+  },
+  {
+    "pantone": "349-c",
+    "hex": "#0A6737"
+  },
+  {
+    "pantone": "350-c",
+    "hex": "#2C5035"
+  },
+  {
+    "pantone": "351-c",
+    "hex": "#A3E2BA"
+  },
+  {
+    "pantone": "352-c",
+    "hex": "#8DDFB1"
+  },
+  {
+    "pantone": "353-c",
+    "hex": "#7FDFAA"
+  },
+  {
+    "pantone": "354-c",
+    "hex": "#00AC44"
+  },
+  {
+    "pantone": "355-c",
+    "hex": "#00933D"
+  },
+  {
+    "pantone": "356-c",
+    "hex": "#007735"
+  },
+  {
+    "pantone": "357-c",
+    "hex": "#1E5532"
+  },
+  {
+    "pantone": "7478-c",
+    "hex": "#96E0BF"
+  },
+  {
+    "pantone": "7479-c",
+    "hex": "#20CC7D"
+  },
+  {
+    "pantone": "7480-c",
+    "hex": "#00BB72"
+  },
+  {
+    "pantone": "7481-c",
+    "hex": "#00B453"
+  },
+  {
+    "pantone": "7482-c",
+    "hex": "#009B50"
+  },
+  {
+    "pantone": "7483-c",
+    "hex": "#265C39"
+  },
+  {
+    "pantone": "7484-c",
+    "hex": "#005641"
+  },
+  {
+    "pantone": "7730-c",
+    "hex": "#4F9464"
+  },
+  {
+    "pantone": "7731-c",
+    "hex": "#278449"
+  },
+  {
+    "pantone": "7732-c",
+    "hex": "#007841"
+  },
+  {
+    "pantone": "7733-c",
+    "hex": "#006D42"
+  },
+  {
+    "pantone": "7734-c",
+    "hex": "#285E40"
+  },
+  {
+    "pantone": "7735-c",
+    "hex": "#38563E"
+  },
+  {
+    "pantone": "7736-c",
+    "hex": "#375342"
+  },
+  {
+    "pantone": "7737-c",
+    "hex": "#73A33C"
+  },
+  {
+    "pantone": "7738-c",
+    "hex": "#4F9F43"
+  },
+  {
+    "pantone": "7739-c",
+    "hex": "#399843"
+  },
+  {
+    "pantone": "7740-c",
+    "hex": "#3E8E42"
+  },
+  {
+    "pantone": "7741-c",
+    "hex": "#488741"
+  },
+  {
+    "pantone": "7742-c",
+    "hex": "#4B743B"
+  },
+  {
+    "pantone": "7743-c",
+    "hex": "#43673C"
+  },
+  {
+    "pantone": "358-c",
+    "hex": "#B1DA93"
+  },
+  {
+    "pantone": "359-c",
+    "hex": "#A8D685"
+  },
+  {
+    "pantone": "360-c",
+    "hex": "#76C04E"
+  },
+  {
+    "pantone": "361-c",
+    "hex": "#4CAC2F"
+  },
+  {
+    "pantone": "362-c",
+    "hex": "#569B31"
+  },
+  {
+    "pantone": "363-c",
+    "hex": "#52892E"
+  },
+  {
+    "pantone": "364-c",
+    "hex": "#4E752A"
+  },
+  {
+    "pantone": "7485-c",
+    "hex": "#D4DEBD"
+  },
+  {
+    "pantone": "7486-c",
+    "hex": "#C1DE94"
+  },
+  {
+    "pantone": "7487-c",
+    "hex": "#94DB68"
+  },
+  {
+    "pantone": "7488-c",
+    "hex": "#7CD34E"
+  },
+  {
+    "pantone": "7489-c",
+    "hex": "#79A852"
+  },
+  {
+    "pantone": "7490-c",
+    "hex": "#78984C"
+  },
+  {
+    "pantone": "7491-c",
+    "hex": "#7D833C"
+  },
+  {
+    "pantone": "365-c",
+    "hex": "#C6DD89"
+  },
+  {
+    "pantone": "366-c",
+    "hex": "#BEDC7C"
+  },
+  {
+    "pantone": "367-c",
+    "hex": "#ABD360"
+  },
+  {
+    "pantone": "368-c",
+    "hex": "#81BB28"
+  },
+  {
+    "pantone": "369-c",
+    "hex": "#6CA516"
+  },
+  {
+    "pantone": "370-c",
+    "hex": "#6B8B20"
+  },
+  {
+    "pantone": "371-c",
+    "hex": "#576023"
+  },
+  {
+    "pantone": "372-c",
+    "hex": "#DAEA90"
+  },
+  {
+    "pantone": "373-c",
+    "hex": "#D4E983"
+  },
+  {
+    "pantone": "374-c",
+    "hex": "#CBE56D"
+  },
+  {
+    "pantone": "375-c",
+    "hex": "#A0D40B"
+  },
+  {
+    "pantone": "376-c",
+    "hex": "#8BBA00"
+  },
+  {
+    "pantone": "377-c",
+    "hex": "#7F970C"
+  },
+  {
+    "pantone": "378-c",
+    "hex": "#5E621F"
+  },
+  {
+    "pantone": "580-c",
+    "hex": "#C8D4A5"
+  },
+  {
+    "pantone": "579-c",
+    "hex": "#C2CE9B"
+  },
+  {
+    "pantone": "578-c",
+    "hex": "#BCCD97"
+  },
+  {
+    "pantone": "577-c",
+    "hex": "#B0C281"
+  },
+  {
+    "pantone": "576-c",
+    "hex": "#7E9A4B"
+  },
+  {
+    "pantone": "575-c",
+    "hex": "#6E803D"
+  },
+  {
+    "pantone": "574-c",
+    "hex": "#4F5830"
+  },
+  {
+    "pantone": "5807-c",
+    "hex": "#D3D0AA"
+  },
+  {
+    "pantone": "5797-c",
+    "hex": "#CBC89D"
+  },
+  {
+    "pantone": "5787-c",
+    "hex": "#BDBB8A"
+  },
+  {
+    "pantone": "5777-c",
+    "hex": "#A6A368"
+  },
+  {
+    "pantone": "5767-c",
+    "hex": "#8F8B4A"
+  },
+  {
+    "pantone": "5757-c",
+    "hex": "#706F30"
+  },
+  {
+    "pantone": "5747-c",
+    "hex": "#3E421D"
+  },
+  {
+    "pantone": "5875-c",
+    "hex": "#D7CC9E"
+  },
+  {
+    "pantone": "5865-c",
+    "hex": "#D1C795"
+  },
+  {
+    "pantone": "5855-c",
+    "hex": "#C3B986"
+  },
+  {
+    "pantone": "5845-c",
+    "hex": "#B5A86F"
+  },
+  {
+    "pantone": "5835-c",
+    "hex": "#A69859"
+  },
+  {
+    "pantone": "5825-c",
+    "hex": "#90803D"
+  },
+  {
+    "pantone": "5815-c",
+    "hex": "#594F25"
+  },
+  {
+    "pantone": "5803-c",
+    "hex": "#C5C5A7"
+  },
+  {
+    "pantone": "5793-c",
+    "hex": "#B7B896"
+  },
+  {
+    "pantone": "5783-c",
+    "hex": "#A6A883"
+  },
+  {
+    "pantone": "5773-c",
+    "hex": "#8B8E64"
+  },
+  {
+    "pantone": "5763-c",
+    "hex": "#78794D"
+  },
+  {
+    "pantone": "5753-c",
+    "hex": "#626639"
+  },
+  {
+    "pantone": "5743-c",
+    "hex": "#414728"
+  },
+  {
+    "pantone": "7492-c",
+    "hex": "#C8CB82"
+  },
+  {
+    "pantone": "7493-c",
+    "hex": "#C1C494"
+  },
+  {
+    "pantone": "7494-c",
+    "hex": "#9EAD89"
+  },
+  {
+    "pantone": "7495-c",
+    "hex": "#959740"
+  },
+  {
+    "pantone": "7496-c",
+    "hex": "#7D8721"
+  },
+  {
+    "pantone": "7497-c",
+    "hex": "#7C7057"
+  },
+  {
+    "pantone": "7498-c",
+    "hex": "#5E6136"
+  },
+  {
+    "pantone": "7744-c",
+    "hex": "#C2BA1D"
+  },
+  {
+    "pantone": "7745-c",
+    "hex": "#B3AC29"
+  },
+  {
+    "pantone": "7746-c",
+    "hex": "#9F9833"
+  },
+  {
+    "pantone": "7747-c",
+    "hex": "#908B34"
+  },
+  {
+    "pantone": "7748-c",
+    "hex": "#817E36"
+  },
+  {
+    "pantone": "7749-c",
+    "hex": "#757136"
+  },
+  {
+    "pantone": "7750-c",
+    "hex": "#686435"
+  },
+  {
+    "pantone": "379-c",
+    "hex": "#E9E468"
+  },
+  {
+    "pantone": "380-c",
+    "hex": "#E5E247"
+  },
+  {
+    "pantone": "381-c",
+    "hex": "#D7D900"
+  },
+  {
+    "pantone": "382-c",
+    "hex": "#CDD400"
+  },
+  {
+    "pantone": "383-c",
+    "hex": "#B2AC00"
+  },
+  {
+    "pantone": "384-c",
+    "hex": "#9D9300"
+  },
+  {
+    "pantone": "385-c",
+    "hex": "#7D6F22"
+  },
+  {
+    "pantone": "386-c",
+    "hex": "#F2E96D"
+  },
+  {
+    "pantone": "387-c",
+    "hex": "#EBE539"
+  },
+  {
+    "pantone": "388-c",
+    "hex": "#EAE52A"
+  },
+  {
+    "pantone": "389-c",
+    "hex": "#D8DC00"
+  },
+  {
+    "pantone": "390-c",
+    "hex": "#BEBB00"
+  },
+  {
+    "pantone": "391-c",
+    "hex": "#9F9200"
+  },
+  {
+    "pantone": "392-c",
+    "hex": "#89790C"
+  },
+  {
+    "pantone": "587-c",
+    "hex": "#EAE28E"
+  },
+  {
+    "pantone": "586-c",
+    "hex": "#E9DF7D"
+  },
+  {
+    "pantone": "585-c",
+    "hex": "#E6DD72"
+  },
+  {
+    "pantone": "584-c",
+    "hex": "#DCD558"
+  },
+  {
+    "pantone": "583-c",
+    "hex": "#C1BD1C"
+  },
+  {
+    "pantone": "582-c",
+    "hex": "#968A16"
+  },
+  {
+    "pantone": "581-c",
+    "hex": "#675B22"
+  },
+  {
+    "pantone": "393-c",
+    "hex": "#F8EA75"
+  },
+  {
+    "pantone": "394-c",
+    "hex": "#F8E840"
+  },
+  {
+    "pantone": "395-c",
+    "hex": "#F5E621"
+  },
+  {
+    "pantone": "396-c",
+    "hex": "#EBDE00"
+  },
+  {
+    "pantone": "397-c",
+    "hex": "#C9B800"
+  },
+  {
+    "pantone": "398-c",
+    "hex": "#B3A100"
+  },
+  {
+    "pantone": "399-c",
+    "hex": "#A69000"
+  },
+  {
+    "pantone": "3935-c",
+    "hex": "#FCE65E"
+  },
+  {
+    "pantone": "3945-c",
+    "hex": "#FDE300"
+  },
+  {
+    "pantone": "3955-c",
+    "hex": "#FBDD00"
+  },
+  {
+    "pantone": "3965-c",
+    "hex": "#F7DA00"
+  },
+  {
+    "pantone": "3975-c",
+    "hex": "#C6A600"
+  },
+  {
+    "pantone": "3985-c",
+    "hex": "#9E8400"
+  },
+  {
+    "pantone": "3995-c",
+    "hex": "#6E5C22"
+  },
+  {
+    "pantone": "600-c",
+    "hex": "#F7E99C"
+  },
+  {
+    "pantone": "601-c",
+    "hex": "#F6E68F"
+  },
+  {
+    "pantone": "602-c",
+    "hex": "#F9E67D"
+  },
+  {
+    "pantone": "603-c",
+    "hex": "#F9E04E"
+  },
+  {
+    "pantone": "604-c",
+    "hex": "#F7D92D"
+  },
+  {
+    "pantone": "605-c",
+    "hex": "#EACB00"
+  },
+  {
+    "pantone": "606-c",
+    "hex": "#D8B300"
+  },
+  {
+    "pantone": "607-c",
+    "hex": "#F2E39B"
+  },
+  {
+    "pantone": "608-c",
+    "hex": "#F1E088"
+  },
+  {
+    "pantone": "609-c",
+    "hex": "#EEDA77"
+  },
+  {
+    "pantone": "610-c",
+    "hex": "#E9D157"
+  },
+  {
+    "pantone": "611-c",
+    "hex": "#E0C62A"
+  },
+  {
+    "pantone": "612-c",
+    "hex": "#CDAE00"
+  },
+  {
+    "pantone": "613-c",
+    "hex": "#BC9A00"
+  },
+  {
+    "pantone": "461-c",
+    "hex": "#F2DF9A"
+  },
+  {
+    "pantone": "460-c",
+    "hex": "#EDD680"
+  },
+  {
+    "pantone": "459-c",
+    "hex": "#E5CA63"
+  },
+  {
+    "pantone": "458-c",
+    "hex": "#E2C458"
+  },
+  {
+    "pantone": "457-c",
+    "hex": "#C19C1B"
+  },
+  {
+    "pantone": "456-c",
+    "hex": "#AB8D2C"
+  },
+  {
+    "pantone": "455-c",
+    "hex": "#6E5924"
+  },
+  {
+    "pantone": "614-c",
+    "hex": "#E1D49B"
+  },
+  {
+    "pantone": "615-c",
+    "hex": "#DACC8D"
+  },
+  {
+    "pantone": "616-c",
+    "hex": "#D6C682"
+  },
+  {
+    "pantone": "617-c",
+    "hex": "#C6B361"
+  },
+  {
+    "pantone": "618-c",
+    "hex": "#B39C3E"
+  },
+  {
+    "pantone": "619-c",
+    "hex": "#A58F2C"
+  },
+  {
+    "pantone": "620-c",
+    "hex": "#917A1B"
+  },
+  {
+    "pantone": "7751-c",
+    "hex": "#D1B34C"
+  },
+  {
+    "pantone": "7752-c",
+    "hex": "#D8AE25"
+  },
+  {
+    "pantone": "7753-c",
+    "hex": "#C9A022"
+  },
+  {
+    "pantone": "7754-c",
+    "hex": "#A6842A"
+  },
+  {
+    "pantone": "7755-c",
+    "hex": "#907632"
+  },
+  {
+    "pantone": "7756-c",
+    "hex": "#776637"
+  },
+  {
+    "pantone": "7757-c",
+    "hex": "#6B5C33"
+  },
+  {
+    "pantone": "7758-c",
+    "hex": "#DCC00D"
+  },
+  {
+    "pantone": "7759-c",
+    "hex": "#CEB201"
+  },
+  {
+    "pantone": "7760-c",
+    "hex": "#97822D"
+  },
+  {
+    "pantone": "7761-c",
+    "hex": "#787036"
+  },
+  {
+    "pantone": "7762-c",
+    "hex": "#61633A"
+  },
+  {
+    "pantone": "7763-c",
+    "hex": "#5C5A3C"
+  },
+  {
+    "pantone": "7764-c",
+    "hex": "#565335"
+  },
+  {
+    "pantone": "7765-c",
+    "hex": "#C3B226"
+  },
+  {
+    "pantone": "7766-c",
+    "hex": "#BDA823"
+  },
+  {
+    "pantone": "7767-c",
+    "hex": "#AF9A2F"
+  },
+  {
+    "pantone": "7768-c",
+    "hex": "#917D35"
+  },
+  {
+    "pantone": "7769-c",
+    "hex": "#746034"
+  },
+  {
+    "pantone": "7770-c",
+    "hex": "#655837"
+  },
+  {
+    "pantone": "7771-c",
+    "hex": "#4F4833"
+  },
+  {
+    "pantone": "4545-c",
+    "hex": "#DACBA0"
+  },
+  {
+    "pantone": "4535-c",
+    "hex": "#D3C293"
+  },
+  {
+    "pantone": "4525-c",
+    "hex": "#CBB685"
+  },
+  {
+    "pantone": "4515-c",
+    "hex": "#B8A069"
+  },
+  {
+    "pantone": "4505-c",
+    "hex": "#9D8342"
+  },
+  {
+    "pantone": "4495-c",
+    "hex": "#917533"
+  },
+  {
+    "pantone": "4485-c",
+    "hex": "#664E26"
+  },
+  {
+    "pantone": "454-c",
+    "hex": "#D0C5A8"
+  },
+  {
+    "pantone": "453-c",
+    "hex": "#C6BA9A"
+  },
+  {
+    "pantone": "452-c",
+    "hex": "#B6A77E"
+  },
+  {
+    "pantone": "451-c",
+    "hex": "#A3925F"
+  },
+  {
+    "pantone": "450-c",
+    "hex": "#5F4A27"
+  },
+  {
+    "pantone": "449-c",
+    "hex": "#574628"
+  },
+  {
+    "pantone": "448-c",
+    "hex": "#4D4029"
+  },
+  {
+    "pantone": "7499-c",
+    "hex": "#F6E4B3"
+  },
+  {
+    "pantone": "7500-c",
+    "hex": "#E4CFA6"
+  },
+  {
+    "pantone": "7501-c",
+    "hex": "#DDC69E"
+  },
+  {
+    "pantone": "7502-c",
+    "hex": "#D5B787"
+  },
+  {
+    "pantone": "7503-c",
+    "hex": "#AF9869"
+  },
+  {
+    "pantone": "7504-c",
+    "hex": "#98785E"
+  },
+  {
+    "pantone": "7505-c",
+    "hex": "#856040"
+  },
+  {
+    "pantone": "468-c",
+    "hex": "#E1C8A3"
+  },
+  {
+    "pantone": "467-c",
+    "hex": "#D9B98C"
+  },
+  {
+    "pantone": "466-c",
+    "hex": "#CCA777"
+  },
+  {
+    "pantone": "465-c",
+    "hex": "#C2955D"
+  },
+  {
+    "pantone": "464-c",
+    "hex": "#935A29"
+  },
+  {
+    "pantone": "463-c",
+    "hex": "#794C28"
+  },
+  {
+    "pantone": "462-c",
+    "hex": "#60452C"
+  },
+  {
+    "pantone": "7506-c",
+    "hex": "#F7DBB4"
+  },
+  {
+    "pantone": "7507-c",
+    "hex": "#FFD199"
+  },
+  {
+    "pantone": "7508-c",
+    "hex": "#E7B880"
+  },
+  {
+    "pantone": "7509-c",
+    "hex": "#DCA261"
+  },
+  {
+    "pantone": "7510-c",
+    "hex": "#CD893F"
+  },
+  {
+    "pantone": "7511-c",
+    "hex": "#BD7527"
+  },
+  {
+    "pantone": "7512-c",
+    "hex": "#AA621A"
+  },
+  {
+    "pantone": "719-c",
+    "hex": "#F1C6A2"
+  },
+  {
+    "pantone": "720-c",
+    "hex": "#ECB689"
+  },
+  {
+    "pantone": "721-c",
+    "hex": "#E3A26D"
+  },
+  {
+    "pantone": "722-c",
+    "hex": "#D08343"
+  },
+  {
+    "pantone": "723-c",
+    "hex": "#B96B22"
+  },
+  {
+    "pantone": "724-c",
+    "hex": "#994F12"
+  },
+  {
+    "pantone": "725-c",
+    "hex": "#814015"
+  },
+  {
+    "pantone": "475-c",
+    "hex": "#F7CFB3"
+  },
+  {
+    "pantone": "474-c",
+    "hex": "#F8C7A8"
+  },
+  {
+    "pantone": "473-c",
+    "hex": "#F9BF9C"
+  },
+  {
+    "pantone": "472-c",
+    "hex": "#EC9E6E"
+  },
+  {
+    "pantone": "471-c",
+    "hex": "#C06126"
+  },
+  {
+    "pantone": "470-c",
+    "hex": "#A9592A"
+  },
+  {
+    "pantone": "469-c",
+    "hex": "#6D4024"
+  },
+  {
+    "pantone": "726-c",
+    "hex": "#E4BF9D"
+  },
+  {
+    "pantone": "727-c",
+    "hex": "#DFB28D"
+  },
+  {
+    "pantone": "728-c",
+    "hex": "#D2A177"
+  },
+  {
+    "pantone": "729-c",
+    "hex": "#BB8150"
+  },
+  {
+    "pantone": "730-c",
+    "hex": "#A4652D"
+  },
+  {
+    "pantone": "731-c",
+    "hex": "#7D4312"
+  },
+  {
+    "pantone": "732-c",
+    "hex": "#663511"
+  },
+  {
+    "pantone": "4685-c",
+    "hex": "#E4C6AE"
+  },
+  {
+    "pantone": "4675-c",
+    "hex": "#E1C0A7"
+  },
+  {
+    "pantone": "4665-c",
+    "hex": "#D2A889"
+  },
+  {
+    "pantone": "4655-c",
+    "hex": "#C39373"
+  },
+  {
+    "pantone": "4645-c",
+    "hex": "#B37C58"
+  },
+  {
+    "pantone": "4635-c",
+    "hex": "#995E36"
+  },
+  {
+    "pantone": "4625-c",
+    "hex": "#532C1E"
+  },
+  {
+    "pantone": "7513-c",
+    "hex": "#E4B6A5"
+  },
+  {
+    "pantone": "7514-c",
+    "hex": "#D9A184"
+  },
+  {
+    "pantone": "7515-c",
+    "hex": "#CC8C68"
+  },
+  {
+    "pantone": "7516-c",
+    "hex": "#9D542A"
+  },
+  {
+    "pantone": "7517-c",
+    "hex": "#8A421C"
+  },
+  {
+    "pantone": "7518-c",
+    "hex": "#704F47"
+  },
+  {
+    "pantone": "7519-c",
+    "hex": "#614B3D"
+  },
+  {
+    "pantone": "4755-c",
+    "hex": "#DAC1B5"
+  },
+  {
+    "pantone": "4745-c",
+    "hex": "#D1B5A9"
+  },
+  {
+    "pantone": "4735-c",
+    "hex": "#C3A191"
+  },
+  {
+    "pantone": "4725-c",
+    "hex": "#B48979"
+  },
+  {
+    "pantone": "4715-c",
+    "hex": "#9B6B59"
+  },
+  {
+    "pantone": "4705-c",
+    "hex": "#814B3A"
+  },
+  {
+    "pantone": "4695-c",
+    "hex": "#5F3428"
+  },
+  {
+    "pantone": "482-c",
+    "hex": "#DFC7B7"
+  },
+  {
+    "pantone": "481-c",
+    "hex": "#D9BBA9"
+  },
+  {
+    "pantone": "480-c",
+    "hex": "#CAA691"
+  },
+  {
+    "pantone": "479-c",
+    "hex": "#B18067"
+  },
+  {
+    "pantone": "478-c",
+    "hex": "#773D2A"
+  },
+  {
+    "pantone": "477-c",
+    "hex": "#673B2B"
+  },
+  {
+    "pantone": "476-c",
+    "hex": "#503428"
+  },
+  {
+    "pantone": "7527-c",
+    "hex": "#D7D0C4"
+  },
+  {
+    "pantone": "7528-c",
+    "hex": "#C7B9AC"
+  },
+  {
+    "pantone": "7529-c",
+    "hex": "#B8A899"
+  },
+  {
+    "pantone": "7530-c",
+    "hex": "#A49282"
+  },
+  {
+    "pantone": "7531-c",
+    "hex": "#7C6655"
+  },
+  {
+    "pantone": "7532-c",
+    "hex": "#66503C"
+  },
+  {
+    "pantone": "7533-c",
+    "hex": "#4A3729"
+  },
+  {
+    "pantone": "7534-c",
+    "hex": "#D2CBBD"
+  },
+  {
+    "pantone": "7535-c",
+    "hex": "#B8AF9C"
+  },
+  {
+    "pantone": "7536-c",
+    "hex": "#A99F89"
+  },
+  {
+    "pantone": "7537-c",
+    "hex": "#A9ACA1"
+  },
+  {
+    "pantone": "7538-c",
+    "hex": "#949A91"
+  },
+  {
+    "pantone": "7539-c",
+    "hex": "#8E8E88"
+  },
+  {
+    "pantone": "7540-c",
+    "hex": "#484E53"
+  },
+  {
+    "pantone": "427-c",
+    "hex": "#CED2D3"
+  },
+  {
+    "pantone": "428-c",
+    "hex": "#C2C7C9"
+  },
+  {
+    "pantone": "429-c",
+    "hex": "#A1A9AD"
+  },
+  {
+    "pantone": "430-c",
+    "hex": "#79858C"
+  },
+  {
+    "pantone": "431-c",
+    "hex": "#596770"
+  },
+  {
+    "pantone": "432-c",
+    "hex": "#2E3D47"
+  },
+  {
+    "pantone": "433-c",
+    "hex": "#1B242B"
+  },
+  {
+    "pantone": "420-c",
+    "hex": "#C9C9C9"
+  },
+  {
+    "pantone": "421-c",
+    "hex": "#B1B3B3"
+  },
+  {
+    "pantone": "422-c",
+    "hex": "#9DA0A2"
+  },
+  {
+    "pantone": "423-c",
+    "hex": "#888B8D"
+  },
+  {
+    "pantone": "424-c",
+    "hex": "#707271"
+  },
+  {
+    "pantone": "425-c",
+    "hex": "#53575A"
+  },
+  {
+    "pantone": "426-c",
+    "hex": "#24282A"
+  },
+  {
+    "pantone": "441-c",
+    "hex": "#BBC5C3"
+  },
+  {
+    "pantone": "442-c",
+    "hex": "#9DABA9"
+  },
+  {
+    "pantone": "443-c",
+    "hex": "#8F9D9E"
+  },
+  {
+    "pantone": "444-c",
+    "hex": "#6E7C7C"
+  },
+  {
+    "pantone": "445-c",
+    "hex": "#4B5657"
+  },
+  {
+    "pantone": "446-c",
+    "hex": "#3D4644"
+  },
+  {
+    "pantone": "447-c",
+    "hex": "#373936"
+  },
+  {
+    "pantone": "413-c",
+    "hex": "#BAB8AF"
+  },
+  {
+    "pantone": "414-c",
+    "hex": "#AAA89F"
+  },
+  {
+    "pantone": "415-c",
+    "hex": "#909187"
+  },
+  {
+    "pantone": "416-c",
+    "hex": "#7F7F74"
+  },
+  {
+    "pantone": "417-c",
+    "hex": "#65665D"
+  },
+  {
+    "pantone": "418-c",
+    "hex": "#52524A"
+  },
+  {
+    "pantone": "419-c",
+    "hex": "#202121"
+  },
+  {
+    "pantone": "400-c",
+    "hex": "#C6BFB7"
+  },
+  {
+    "pantone": "401-c",
+    "hex": "#B1AAA0"
+  },
+  {
+    "pantone": "402-c",
+    "hex": "#9E948B"
+  },
+  {
+    "pantone": "403-c",
+    "hex": "#8E847B"
+  },
+  {
+    "pantone": "404-c",
+    "hex": "#776D63"
+  },
+  {
+    "pantone": "405-c",
+    "hex": "#6A6159"
+  },
+  {
+    "pantone": "black-c",
+    "hex": "#2D2925"
+  },
+  {
+    "pantone": "406-c",
+    "hex": "#C7BCB6"
+  },
+  {
+    "pantone": "407-c",
+    "hex": "#B1A6A1"
+  },
+  {
+    "pantone": "408-c",
+    "hex": "#988B87"
+  },
+  {
+    "pantone": "409-c",
+    "hex": "#877875"
+  },
+  {
+    "pantone": "410-c",
+    "hex": "#766762"
+  },
+  {
+    "pantone": "411-c",
+    "hex": "#60514E"
+  },
+  {
+    "pantone": "412-c",
+    "hex": "#372E2C"
+  },
+  {
+    "pantone": "434-c",
+    "hex": "#CEC3C4"
+  },
+  {
+    "pantone": "435-c",
+    "hex": "#BFB2B6"
+  },
+  {
+    "pantone": "436-c",
+    "hex": "#AA999D"
+  },
+  {
+    "pantone": "437-c",
+    "hex": "#7A6569"
+  },
+  {
+    "pantone": "438-c",
+    "hex": "#574444"
+  },
+  {
+    "pantone": "439-c",
+    "hex": "#433534"
+  },
+  {
+    "pantone": "440-c",
+    "hex": "#372E2C"
+  },
+  {
+    "pantone": "warm gray 1-c",
+    "hex": "#D6D0CA"
+  },
+  {
+    "pantone": "warm gray 2-c",
+    "hex": "#CEC4BD"
+  },
+  {
+    "pantone": "warm gray 3-c",
+    "hex": "#C0B7AF"
+  },
+  {
+    "pantone": "warm gray 4-c",
+    "hex": "#B5ACA4"
+  },
+  {
+    "pantone": "warm gray 5-c",
+    "hex": "#ADA098"
+  },
+  {
+    "pantone": "warm gray 6-c",
+    "hex": "#A79B94"
+  },
+  {
+    "pantone": "warm gray 7-c",
+    "hex": "#978B83"
+  },
+  {
+    "pantone": "warm gray 8-c",
+    "hex": "#8D8179"
+  },
+  {
+    "pantone": "warm gray 9-c",
+    "hex": "#84766F"
+  },
+  {
+    "pantone": "warm gray 10-c",
+    "hex": "#7A6C65"
+  },
+  {
+    "pantone": "warm gray 11-c",
+    "hex": "#70625A"
+  },
+  {
+    "pantone": "cool gray 1-c",
+    "hex": "#DAD9D7"
+  },
+  {
+    "pantone": "cool gray 2-c",
+    "hex": "#D2D1CF"
+  },
+  {
+    "pantone": "cool gray 3-c",
+    "hex": "#C9C9C9"
+  },
+  {
+    "pantone": "cool gray 4-c",
+    "hex": "#BBBBBB"
+  },
+  {
+    "pantone": "cool gray 5-c",
+    "hex": "#B3B3B3"
+  },
+  {
+    "pantone": "cool gray 6-c",
+    "hex": "#A7A8AA"
+  },
+  {
+    "pantone": "cool gray 7-c",
+    "hex": "#97989A"
+  },
+  {
+    "pantone": "cool gray 8-c",
+    "hex": "#898B8E"
+  },
+  {
+    "pantone": "cool gray 9-c",
+    "hex": "#75777A"
+  },
+  {
+    "pantone": "cool gray 10-c",
+    "hex": "#63656A"
+  },
+  {
+    "pantone": "cool gray 11-c",
+    "hex": "#525459"
+  },
+  {
+    "pantone": "black 2-c",
+    "hex": "#332D1F"
+  },
+  {
+    "pantone": "black 3-c",
+    "hex": "#212721"
+  },
+  {
+    "pantone": "black 4-c",
+    "hex": "#31251C"
+  },
+  {
+    "pantone": "black 5-c",
+    "hex": "#3E2A2F"
+  },
+  {
+    "pantone": "black 6-c",
+    "hex": "#0E1820"
+  },
+  {
+    "pantone": "black 7-c",
+    "hex": "#3C3834"
+  }
+]
