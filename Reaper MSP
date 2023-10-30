@@ -1,0 +1,942 @@
+[
+    {
+        "name": "Red Brick",
+        "hex": "#501325"
+    },
+    {
+        "name": "Deep Red",
+        "hex": "#9f373e"
+    },
+    {
+        "name": "Blood Red",
+        "hex": "#ad1732"
+    },
+    {
+        "name": "Fire Red",
+        "hex": "#c00a3b"
+    },
+    {
+        "name": "Pheonix Red",
+        "hex": "#d23830"
+    },
+    {
+        "name": "Fire Orange",
+        "hex": "#ea712c"
+    },
+    {
+        "name": "Margold Yellow",
+        "hex": "#ee922b"
+    },
+    {
+        "name": "Sun Yellow",
+        "hex": "#f6c127"
+    },
+    {
+        "name": "Lemon Yellow",
+        "hex": "#f8ec1c"
+    },
+    {
+        "name": "Pine Green",
+        "hex": "#015929"
+    },
+    {
+        "name": "Leaf Green",
+        "hex": "#158a44"
+    },
+    {
+        "name": "Pale Green",
+        "hex": "#33b54b"
+    },
+    {
+        "name": "Forest Green",
+        "hex": "#024428"
+    },
+    {
+        "name": "Grass Green",
+        "hex": "#047b55"
+    },
+    {
+        "name": "Jade Green",
+        "hex": "#01ad63"
+    },
+    {
+        "name": "Sapphire Blue",
+        "hex": "#29458f"
+    },
+    {
+        "name": "True Blue",
+        "hex": "#007cba"
+    },
+    {
+        "name": "Sky Blue",
+        "hex": "#4ca2d3"
+    },
+    {
+        "name": "Midnight Blue",
+        "hex": "#0c131d"
+    },
+    {
+        "name": "Twilight Blue",
+        "hex": "#384963"
+    },
+    {
+        "name": "Snow Shadow",
+        "hex": "#7f93ac"
+    },
+    {
+        "name": "Nightshade Purple",
+        "hex": "#26192d"
+    },
+    {
+        "name": "Imperial Purple",
+        "hex": "#634871"
+    },
+    {
+        "name": "Amethyst Purple",
+        "hex": "#9e7daa"
+    },
+    {
+        "name": "Burgundy Wine",
+        "hex": "#461f34"
+    },
+    {
+        "name": "Violet Red",
+        "hex": "#611e47"
+    },
+    {
+        "name": "Pale Violet Red",
+        "hex": "#92335b"
+    },
+    {
+        "name": "Muddy Brown",
+        "hex": "#432e1b"
+    },
+    {
+        "name": "Earth Brown",
+        "hex": "#785336"
+    },
+    {
+        "name": "Leather Brown",
+        "hex": "#a5754d"
+    },
+    {
+        "name": "Tanned Leather",
+        "hex": "#b78349"
+    },
+    {
+        "name": "Amber Gold",
+        "hex": "#cea35e"
+    },
+    {
+        "name": "Golden Blonde",
+        "hex": "#f2e295"
+    },
+    {
+        "name": "Muddy Olive",
+        "hex": "#407036"
+    },
+    {
+        "name": "Olive Green",
+        "hex": "#729656"
+    },
+    {
+        "name": "Pale Olive",
+        "hex": "#a6b68f"
+    },
+    {
+        "name": "Pure Black",
+        "hex": "#000000"
+    },
+    {
+        "name": "Rainy Grey",
+        "hex": "#7f7f7f"
+    },
+    {
+        "name": "Pure White",
+        "hex": "#ffffff"
+    },
+    {
+        "name": "Dark Shadow",
+        "hex": "#220d0c"
+    },
+    {
+        "name": "Dark Skin",
+        "hex": "#41241e"
+    },
+    {
+        "name": "Dark Highlights",
+        "hex": "#422b19"
+    },
+    {
+        "name": "Tanned Shadow",
+        "hex": "#a5755e"
+    },
+    {
+        "name": "Tanned Skin",
+        "hex": "#bc8d6f"
+    },
+    {
+        "name": "Tanned Highlight",
+        "hex": "#d2a681"
+    },
+    {
+        "name": "Fair Shadow",
+        "hex": "#e7be92"
+    },
+    {
+        "name": "Fair Skin",
+        "hex": "#f1d4b4"
+    },
+    {
+        "name": "Fair Highlights",
+        "hex": "#f4e5ce"
+    },
+    {
+        "name": "Breonne Blue",
+        "hex": "#01273c"
+    },
+    {
+        "name": "Templar Blue",
+        "hex": "#314659"
+    },
+    {
+        "name": "Ashen Blue",
+        "hex": "#557e90"
+    },
+    {
+        "name": "Bone Shadow",
+        "hex": "#d6c6af"
+    },
+    {
+        "name": "Aged Bone",
+        "hex": "#e1d7bc"
+    },
+    {
+        "name": "Polished Bone",
+        "hex": "#ece1cd"
+    },
+    {
+        "name": "Linen White",
+        "hex": "#fefced"
+    },
+    {
+        "name": "Leather White",
+        "hex": "#ebe1d5"
+    },
+    {
+        "name": "Ghost White",
+        "hex": "#eaf5fb"
+    },
+    {
+        "name": "Brown Liner",
+        "hex": "#241510"
+    },
+    {
+        "name": "Grey Liner",
+        "hex": "#363636"
+    },
+    {
+        "name": "Blue Liner",
+        "hex": "#011422"
+    },
+    {
+        "name": "Rosy Shadow",
+        "hex": "#cf9685"
+    },
+    {
+        "name": "Rosy Skin",
+        "hex": "#ecae9f"
+    },
+    {
+        "name": "Rosy Highlight",
+        "hex": "#f0c2aa"
+    },
+    {
+        "name": "Mahogany Brown",
+        "hex": "#23110f"
+    },
+    {
+        "name": "Chestnut Brown",
+        "hex": "#7f433b"
+    },
+    {
+        "name": "Rust Brown",
+        "hex": "#b24a41"
+    },
+    {
+        "name": "Chestnut Gold",
+        "hex": "#986a39"
+    },
+    {
+        "name": "Palomino Gold",
+        "hex": "#bb962e"
+    },
+    {
+        "name": "Buckskin Pale",
+        "hex": "#dcb85a"
+    },
+    {
+        "name": "Deep Ocean",
+        "hex": "#1c3947"
+    },
+    {
+        "name": "Marine Teal",
+        "hex": "#005f6d"
+    },
+    {
+        "name": "Surf Aqua",
+        "hex": "#66b3b9"
+    },
+    {
+        "name": "Jungle Moss",
+        "hex": "#28382d"
+    },
+    {
+        "name": "Highland Moss",
+        "hex": "#3d504a"
+    },
+    {
+        "name": "Pale Lichen",
+        "hex": "#7d978c"
+    },
+    {
+        "name": "Shadowed Stone",
+        "hex": "#63605b"
+    },
+    {
+        "name": "Stone Grey",
+        "hex": "#7c7771"
+    },
+    {
+        "name": "Weathered Stone",
+        "hex": "#948f8c"
+    },
+    {
+        "name": "Stormy Grey",
+        "hex": "#464646"
+    },
+    {
+        "name": "Cloudy Grey",
+        "hex": "#707070"
+    },
+    {
+        "name": "Misty Grey",
+        "hex": "#cccccc"
+    },
+    {
+        "name": "Golden Shadow",
+        "hex": "#bd9564"
+    },
+    {
+        "name": "Golden Skin",
+        "hex": "#d2ad83"
+    },
+    {
+        "name": "Golden Highlight",
+        "hex": "#f2ce9a"
+    },
+    {
+        "name": "Clear Red",
+        "hex": "#e00024"
+    },
+    {
+        "name": "Clear Yellow",
+        "hex": "#f8f400"
+    },
+    {
+        "name": "Clear Green",
+        "hex": "#009f3b"
+    },
+    {
+        "name": "Clear Blue",
+        "hex": "#324496"
+    },
+    {
+        "name": "Clear Magenta",
+        "hex": "#e4007b"
+    },
+    {
+        "name": "Clear Purple",
+        "hex": "#5e0c7b"
+    },
+    {
+        "name": "Ruddy Leather",
+        "hex": "#6a342a"
+    },
+    {
+        "name": "Oiled Leather",
+        "hex": "#965336"
+    },
+    {
+        "name": "Burnt Orange",
+        "hex": "#e18749"
+    },
+    {
+        "name": "Ritterlich Blue",
+        "hex": "#003760"
+    },
+    {
+        "name": "Brilliant Blue",
+        "hex": "#01588e"
+    },
+    {
+        "name": "Cyan Blue",
+        "hex": "#0089d1"
+    },
+    {
+        "name": "Khaki Shadow",
+        "hex": "#b4a07b"
+    },
+    {
+        "name": "Terran Khaki",
+        "hex": "#c7ba9a"
+    },
+    {
+        "name": "Khaki Highlight",
+        "hex": "#dbd5bd"
+    },
+    {
+        "name": "Uniform Brown",
+        "hex": "#6b4e00"
+    },
+    {
+        "name": "Green Ochre",
+        "hex": "#9f7319"
+    },
+    {
+        "name": "Faded Khaki",
+        "hex": "#bc9224"
+    },
+    {
+        "name": "Bloodstain Red",
+        "hex": "#680001"
+    },
+    {
+        "name": "Clotted Red",
+        "hex": "#8b0003"
+    },
+    {
+        "name": "Carnage Red",
+        "hex": "#b20d1e"
+    },
+    {
+        "name": "Walnut Brown",
+        "hex": "#470000"
+    },
+    {
+        "name": "Blackened Brown",
+        "hex": "#5d0400"
+    },
+    {
+        "name": "Intense Brown",
+        "hex": "#8d3102"
+    },
+    {
+        "name": "Stained Ivory",
+        "hex": "#c7a369"
+    },
+    {
+        "name": "Yellowed Ivory",
+        "hex": "#d3bd84"
+    },
+    {
+        "name": "Creamy Ivory",
+        "hex": "#e9d8a4"
+    },
+    {
+        "name": "Ghoul Skin",
+        "hex": "#909473"
+    },
+    {
+        "name": "Moldy Skin",
+        "hex": "#b2b580"
+    },
+    {
+        "name": "Bloodless Skin",
+        "hex": "#d2cf9a"
+    },
+    {
+        "name": "Olive Shadow",
+        "hex": "#4a3901"
+    },
+    {
+        "name": "Olive Drab",
+        "hex": "#5b5602"
+    },
+    {
+        "name": "Worn Olive",
+        "hex": "#827517"
+    },
+    {
+        "name": "Woodstain Brown",
+        "hex": "#573f27"
+    },
+    {
+        "name": "Shield Brown",
+        "hex": "#7d5329"
+    },
+    {
+        "name": "Driftwood Brown",
+        "hex": "#a67e4d"
+    },
+    {
+        "name": "Dark Elf Shadow",
+        "hex": "#473640"
+    },
+    {
+        "name": "Dark Elf Skin",
+        "hex": "#64575e"
+    },
+    {
+        "name": "Dark Elf Highlight",
+        "hex": "#867f87"
+    },
+    {
+        "name": "Swamp Green",
+        "hex": "#2a2400"
+    },
+    {
+        "name": "Military Green",
+        "hex": "#445020"
+    },
+    {
+        "name": "Camoflage Green",
+        "hex": "#8c8d27"
+    },
+    {
+        "name": "Ultramarine Shadow",
+        "hex": "#00223d"
+    },
+    {
+        "name": "Ultramarine Blue",
+        "hex": "#004d7e"
+    },
+    {
+        "name": "Ultramarine Highlight",
+        "hex": "#0076be"
+    },
+    {
+        "name": "Russet Brown",
+        "hex": "#530e00"
+    },
+    {
+        "name": "Harvest Brown",
+        "hex": "#8e3e00"
+    },
+    {
+        "name": "Orange Brown",
+        "hex": "#c85b18"
+    },
+    {
+        "name": "Magma Red",
+        "hex": "#db3a28"
+    },
+    {
+        "name": "Lava Orange",
+        "hex": "#de5622"
+    },
+    {
+        "name": "Explosion Orange",
+        "hex": "#de7c1b"
+    },
+    {
+        "name": "Olive Skin Shadow",
+        "hex": "#745213"
+    },
+    {
+        "name": "Olive Skin",
+        "hex": "#a97e1f"
+    },
+    {
+        "name": "Olive Skin Highlight",
+        "hex": "#bea551"
+    },
+    {
+        "name": "Redstone Shadow",
+        "hex": "#3a1f24"
+    },
+    {
+        "name": "Redstone",
+        "hex": "#7e3929"
+    },
+    {
+        "name": "Redstone Highlight",
+        "hex": "#a85837"
+    },
+    {
+        "name": "Peacock Green",
+        "hex": "#1e2e2b"
+    },
+    {
+        "name": "Brilliant Green",
+        "hex": "#00652d"
+    },
+    {
+        "name": "Viper Green",
+        "hex": "#008f35"
+    },
+    {
+        "name": "Worn Navy",
+        "hex": "#121315"
+    },
+    {
+        "name": "Soft Blue",
+        "hex": "#13475f"
+    },
+    {
+        "name": "Heather Blue",
+        "hex": "#547c95"
+    },
+    {
+        "name": "Bright Skin Shadow",
+        "hex": "#de8871"
+    },
+    {
+        "name": "Bright Skin",
+        "hex": "#ebaa58"
+    },
+    {
+        "name": "Bright Skin Highlight",
+        "hex": "#f1d45f"
+    },
+    {
+        "name": "Red Shadow",
+        "hex": "#60001d"
+    },
+    {
+        "name": "Green Shadow",
+        "hex": "#011f07"
+    },
+    {
+        "name": "Violet Shadow",
+        "hex": "#440039"
+    },
+    {
+        "name": "Regal Purple",
+        "hex": "#2e001d"
+    },
+    {
+        "name": "Monarch Purple",
+        "hex": "#4d0034"
+    },
+    {
+        "name": "Royal Purple",
+        "hex": "#840053"
+    },
+    {
+        "name": "Auburn Shadow",
+        "hex": "#81301f"
+    },
+    {
+        "name": "Carrottop Red",
+        "hex": "#c14917"
+    },
+    {
+        "name": "Highlight Orange",
+        "hex": "#e27814"
+    },
+    {
+        "name": "Muddy Soil",
+        "hex": "#1b1603"
+    },
+    {
+        "name": "Basic Dirt",
+        "hex": "#57432b"
+    },
+    {
+        "name": "Brown Sand",
+        "hex": "#8a693e"
+    },
+    {
+        "name": "Saffron Sunset",
+        "hex": "#eea500"
+    },
+    {
+        "name": "Moth Green",
+        "hex": "#6cc128"
+    },
+    {
+        "name": "Sandy Brown",
+        "hex": "#b88532"
+    },
+    {
+        "name": "Dusky Skin Shadow",
+        "hex": "#46373a"
+    },
+    {
+        "name": "Dusky Skin",
+        "hex": "#766160"
+    },
+    {
+        "name": "Dusky Skin Highlight",
+        "hex": "#a89496"
+    },
+    {
+        "name": "Blonde Shadow",
+        "hex": "#a54201"
+    },
+    {
+        "name": "Blonde Hair",
+        "hex": "#d98d2d"
+    },
+    {
+        "name": "Blone Highlight",
+        "hex": "#f3c160"
+    },
+    {
+        "name": "Bronzed Skin Shadow",
+        "hex": "#a73300"
+    },
+    {
+        "name": "Bronzed Skin",
+        "hex": "#d05e17"
+    },
+    {
+        "name": "Bronzed Skin Highlight",
+        "hex": "#e5a039"
+    },
+    {
+        "name": "Blush Pink",
+        "hex": "#ff41ad"
+    },
+    {
+        "name": "Mint Green",
+        "hex": "#80fe80"
+    },
+    {
+        "name": "Light Blue",
+        "hex": "#73d9e5"
+    },
+    {
+        "name": "Deep Twilight",
+        "hex": "#080e28"
+    },
+    {
+        "name": "Violet Light",
+        "hex": "#162872"
+    },
+    {
+        "name": "Sunset Purple",
+        "hex": "#5a62b3"
+    },
+    {
+        "name": "Volcano Brown",
+        "hex": "#472428"
+    },
+    {
+        "name": "Military Blue",
+        "hex": "#14514c"
+    },
+    {
+        "name": "Shadow Green",
+        "hex": "#286009"
+    },
+    {
+        "name": "Dirty Bone",
+        "hex": "#a89867"
+    },
+    {
+        "name": "Graveyard Bone",
+        "hex": "#c9b88d"
+    },
+    {
+        "name": "Splintered Bone",
+        "hex": "#dbceae"
+    },
+    {
+        "name": "Vampiric Shadow",
+        "hex": "#a9998a"
+    },
+    {
+        "name": "Vampiric Skin",
+        "hex": "#d1bfa9"
+    },
+    {
+        "name": "Vampiric Highlight",
+        "hex": "#e7dac7"
+    },
+    {
+        "name": "Spattered Crimson",
+        "hex": "#6f0f1a"
+    },
+    {
+        "name": "Gory Red",
+        "hex": "#85111a"
+    },
+    {
+        "name": "Fresh Blood",
+        "hex": "#be1a21"
+    },
+    {
+        "name": "Nightmare Black",
+        "hex": "#000f24"
+    },
+    {
+        "name": "Braaaaiins Pink",
+        "hex": "#c88e8d"
+    },
+    {
+        "name": "Maggot White",
+        "hex": "#ddefe1"
+    },
+    {
+        "name": "Old West Rose",
+        "hex": "#a44243"
+    },
+    {
+        "name": "Lonestar Leather",
+        "hex": "#6c6322"
+    },
+    {
+        "name": "Denim Blue",
+        "hex": "#083151"
+    },
+    {
+        "name": "Punk Rock Pink",
+        "hex": "#c43257"
+    },
+    {
+        "name": "Neon Yellow",
+        "hex": "#d6e041"
+    },
+    {
+        "name": "LED Blue",
+        "hex": "#9ac3bd"
+    },
+    {
+        "name": "Noir Black",
+        "hex": "#26211e"
+    },
+    {
+        "name": "Aircraft Grey",
+        "hex": "#b5aaa8"
+    },
+    {
+        "name": "IMEF Olive",
+        "hex": "#505c2e"
+    },
+    {
+        "name": "Bathalian Chitin",
+        "hex": "#e7bb70"
+    },
+    {
+        "name": "Alien Flesh",
+        "hex": "#a98972"
+    },
+    {
+        "name": "Alien Goo",
+        "hex": "#c1f91c"
+    },
+    {
+        "name": "Terra Nova Tundra",
+        "hex": "#cb862b"
+    },
+    {
+        "name": "MacAllen Brown",
+        "hex": "#552f08"
+    },
+    {
+        "name": "Redrider Crimson",
+        "hex": "#9b090c"
+    },
+    {
+        "name": "Dune Shadow",
+        "hex": "#725626"
+    },
+    {
+        "name": "Mekong Moss [HD]",
+        "hex": "#a0a00c"
+    },
+    {
+        "name": "Giant Fern",
+        "hex": "#00632d"
+    },
+    {
+        "name": "Okavango Swamp",
+        "hex": "#6c6c2e"
+    },
+    {
+        "name": "Republique Red",
+        "hex": "#ef4023"
+    },
+    {
+        "name": "Armadillo Tusk [HD]",
+        "hex": "#f1cfa2"
+    },
+    {
+        "name": "White Sand",
+        "hex": "#fde9d0"
+    },
+    {
+        "name": "Paxton Red",
+        "hex": "#8c3a22"
+    },
+    {
+        "name": "War Paint Red",
+        "hex": "#ca471b"
+    },
+    {
+        "name": "Arthurian Blue",
+        "hex": "#01366c"
+    },
+    {
+        "name": "Blue Crescent",
+        "hex": "#0093d8"
+    },
+    {
+        "name": "Atlantean Aqua",
+        "hex": "#71cde2"
+    },
+    {
+        "name": "Coated Armor",
+        "hex": "#4c7183"
+    },
+    {
+        "name": "Factory White",
+        "hex": "#dbf1fc"
+    },
+    {
+        "name": "GREL Flesh",
+        "hex": "#c9bbd2"
+    },
+    {
+        "name": "Afterburn Grey",
+        "hex": "#566165"
+    },
+    {
+        "name": "Hazard Yellow [HD]",
+        "hex": "#fdb016"
+    },
+    {
+        "name": "R.A.M. Black [HD]",
+        "hex": "#00394d"
+    },
+    {
+        "name": "Beacon Yellow",
+        "hex": "#ffe401"
+    },
+    {
+        "name": "Fallout Grey",
+        "hex": "#888888"
+    },
+    {
+        "name": "Ash Grey",
+        "hex": "#d0cfcd"
+    },
+    {
+        "name": "Waveform Aquamarine",
+        "hex": "#0082a2"
+    },
+    {
+        "name": "Coalition Blue",
+        "hex": "#014e9c"
+    },
+    {
+        "name": "Cat's Eye Base",
+        "hex": "#9d580a"
+    },
+    {
+        "name": "Red Dust",
+        "hex": "#f26b3e"
+    }
+]
