@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Dead White",
+        "hex": "#ffffff"
+    },
+    {
+        "name": "Pale Flesh",
+        "hex": "#f6bdb3"
+    },
+    {
+        "name": "Elf Skintone",
+        "hex": "#f8a070"
+    },
+    {
+        "name": "Moon Yellow",
+        "hex": "#fff103"
+    },
+    {
+        "name": "Sun Yellow",
+        "hex": "#ffcf07"
+    },
+    {
+        "name": "Gold Yellow",
+        "hex": "#fdb318"
+    },
+    {
+        "name": "Orange Fire",
+        "hex": "#f1652e"
+    },
+    {
+        "name": "Hot Orange",
+        "hex": "#e43027"
+    },
+    {
+        "name": "Bloody Red",
+        "hex": "#bf282e"
+    },
+    {
+        "name": "Gory Red",
+        "hex": "#810504"
+    },
+    {
+        "name": "Scarlet Red",
+        "hex": "#741330"
+    },
+    {
+        "name": "Squid Pink",
+        "hex": "#da7fb5"
+    },
+    {
+        "name": "Warlord Purple",
+        "hex": "#7d1a44"
+    },
+    {
+        "name": "Hexed Lichen",
+        "hex": "#34274d"
+    },
+    {
+        "name": "Royal Purple",
+        "hex": "#23264f"
+    },
+    {
+        "name": "Dark Blue",
+        "hex": "#2b265d"
+    },
+    {
+        "name": "Stormy Night",
+        "hex": "#1f1a4f"
+    },
+    {
+        "name": "Night Blue",
+        "hex": "#19183f"
+    },
+    {
+        "name": "Imperial Purple",
+        "hex": "#211a4b"
+    },
+    {
+        "name": "Magic Blue",
+        "hex": "#024381"
+    },
+    {
+        "name": "Ultramarine Blue",
+        "hex": "#373592"
+    },
+    {
+        "name": "Electric Blue",
+        "hex": "#008cbf"
+    },
+    {
+        "name": "Turquoise",
+        "hex": "#03676f"
+    },
+    {
+        "name": "Foul Green",
+        "hex": "#239378"
+    },
+    {
+        "name": "Jade Green",
+        "hex": "#128379"
+    },
+    {
+        "name": "Scurvy Green",
+        "hex": "#09474e"
+    },
+    {
+        "name": "Dark Green",
+        "hex": "#083c2a"
+    },
+    {
+        "name": "Sick Green",
+        "hex": "#096638"
+    },
+    {
+        "name": "Goblin Green",
+        "hex": "#23743c"
+    },
+    {
+        "name": "Camoflage Green",
+        "hex": "#71753a"
+    },
+    {
+        "name": "Scorpion Green",
+        "hex": "#48b851"
+    },
+    {
+        "name": "Livery Green",
+        "hex": "#9ece65"
+    },
+    {
+        "name": "Bone White",
+        "hex": "#e8be86"
+    },
+    {
+        "name": "Dead Flesh",
+        "hex": "#bcb686"
+    },
+    {
+        "name": "Bronze Fleshtone",
+        "hex": "#db945c"
+    },
+    {
+        "name": "Filthy Brown",
+        "hex": "#f58d2b"
+    },
+    {
+        "name": "Scrofulous Brown",
+        "hex": "#d68030"
+    },
+    {
+        "name": "Plague Brown",
+        "hex": "#cc9b34"
+    },
+    {
+        "name": "Leather Brown",
+        "hex": "#7b5d2a"
+    },
+    {
+        "name": "Dwarf Skin",
+        "hex": "#cc7c67"
+    },
+    {
+        "name": "Parasite Brown",
+        "hex": "#b1481f"
+    },
+    {
+        "name": "Beasty Brown",
+        "hex": "#55432d"
+    },
+    {
+        "name": "Dark Fleshtone",
+        "hex": "#4f2b26"
+    },
+    {
+        "name": "Charred Brown",
+        "hex": "#39343b"
+    },
+    {
+        "name": "Ghost Grey",
+        "hex": "#a7c5db"
+    },
+    {
+        "name": "Wolf Grey",
+        "hex": "#90a2bc"
+    },
+    {
+        "name": "Sombre Grey",
+        "hex": "#4c5c7d"
+    },
+    {
+        "name": "Stonewall Grey",
+        "hex": "#828e95"
+    },
+    {
+        "name": "Cold Grey",
+        "hex": "#54646d"
+    },
+    {
+        "name": "Black",
+        "hex": "#000000"
+    },
+    {
+        "name": "Khaki",
+        "hex": "#8c806d"
+    },
+    {
+        "name": "Earth",
+        "hex": "#6f563d"
+    },
+    {
+        "name": "Desert Yellow",
+        "hex": "#8e7845"
+    },
+    {
+        "name": "Yellow Olive",
+        "hex": "#063b2f"
+    },
+    {
+        "name": "Terracota",
+        "hex": "#6b1306"
+    },
+    {
+        "name": "Tan",
+        "hex": "#9f4746"
+    },
+    {
+        "name": "Cayman Green",
+        "hex": "#285648"
+    },
+    {
+        "name": "Glacier Blue",
+        "hex": "#acd0ee"
+    },
+    {
+        "name": "Verdigris",
+        "hex": "#b3ceca"
+    },
+    {
+        "name": "Pale Yellow",
+        "hex": "#d5c179"
+    },
+    {
+        "name": "Elfic Flesh",
+        "hex": "#cdc29c"
+    },
+    {
+        "name": "Cadmium Skin",
+        "hex": "#fab78a"
+    },
+    {
+        "name": "Rosy Flesh",
+        "hex": "#f89e84"
+    },
+    {
+        "name": "Offwhite",
+        "hex": "#f5f4da"
+    },
+    {
+        "name": "Steel Grey",
+        "hex": "#64889d"
+    },
+    {
+        "name": "Fluo Yellow",
+        "hex": "#eeea50"
+    },
+    {
+        "name": "Fluo Green",
+        "hex": "#9dcd64"
+    },
+    {
+        "name": "Mutation Green",
+        "hex": "#296934"
+    },
+    {
+        "name": "Heavy Skintone",
+        "hex": "#aa7b62"
+    },
+    {
+        "name": "Heavy Red",
+        "hex": "#943238"
+    },
+    {
+        "name": "Heavy Violet",
+        "hex": "#4c2e65"
+    },
+    {
+        "name": "Heavy Blue",
+        "hex": "#29556d"
+    },
+    {
+        "name": "Heavy Blue Grey",
+        "hex": "#9ca7a7"
+    },
+    {
+        "name": "Heavy Grey",
+        "hex": "#626d54"
+    },
+    {
+        "name": "Heavy Green",
+        "hex": "#566840"
+    },
+    {
+        "name": "Heavy Black Green",
+        "hex": "#18433d"
+    },
+    {
+        "name": "Heavy Warm Grey",
+        "hex": "#939066"
+    },
+    {
+        "name": "Heavy Khaki",
+        "hex": "#9d965d"
+    },
+    {
+        "name": "Heavy Ochre",
+        "hex": "#a87536"
+    },
+    {
+        "name": "Heavy Gold Brown",
+        "hex": "#ba8636"
+    },
+    {
+        "name": "Heavy Orange",
+        "hex": "#ee5527"
+    },
+    {
+        "name": "Heavy Brown",
+        "hex": "#705d41"
+    },
+    {
+        "name": "Heavy Sienna",
+        "hex": "#744642"
+    },
+    {
+        "name": "Heavy Charcoal",
+        "hex": "#1c2e2e"
+    }
+]
