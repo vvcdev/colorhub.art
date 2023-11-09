@@ -634,16 +634,23 @@ canvas {
   font-size: 13.5px;
 }
 
-/* Updated CSS with a single statement for bubble containers */
+
 .main-link {
   position: relative;
   background-color: #333;
-  padding: 10px;
+  flex: 1; 
+  margin: 3px; 
+  padding: 10px; 
   font-size: 13px;
   border-radius: 10px;
-  text-align: right;
-  margin-bottom: 10px; /* Adjust the margin between bubble containers */
+  text-align: center; 
+  margin-bottom: 2px;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; /* Center the text vertically within each bubble */
 }
+
+
 
 .main-link::before {
   content: "";
@@ -668,10 +675,19 @@ canvas {
 }
 
 .main-links {
-  justify-content: center;
   display: flex;
-  flex-direction: row;
-  gap: 5px; /* Adjust the gap between bubble containers */
+  flex-direction: column; /* Change to a column layout */
+  gap: 2px; /* Set the gap between rows to 2px */
+  align-items: center; /* Center the rows horizontally */
+}
+
+.row {
+  display: flex;
+  width: 490px;
+}
+
+.row:nth-child(2) {
+  width: 490px; /* Set the width of the second row to 500px */
 }
 
 .product {
